@@ -1,4 +1,4 @@
-var headerShown = false;
+ var headerShown = false;
 
 var setNewHeader = function(num) {
   $("#intro-header-outer").css("background-image", "url('pics/header/"+num+".jpg')");
@@ -11,6 +11,16 @@ $(document).ready(function() {
     setNewHeader(Math.floor(Math.random()*10));
   }, 3000);
   setNewHeader(0);
+  $('#header-logo').click(function() {
+    if(!($("#header-outer").hasClass("hidden"))) {
+      location.href = 'index.html';
+    }
+    else {
+      headerShown = true;
+      clearInterval(slideshow);
+      $("#header-outer, #header-outer-instructs").addClass("shown");
+    }
+  })
   $(window).scroll(function() {
     var scrolly = $(window).scrollTop();
     if(scrolly >= 500 && headerShown === false) {

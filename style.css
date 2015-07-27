@@ -97,11 +97,13 @@ body {
   width: 197px;
   height: auto;
   margin: 0;
+  z-index: -1;
   position: absolute;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 30%, 0 30%);
   clip-path: polygon(0 0, 100% 0, 100% 30%, 0 30%);
   left: 5px;
   top: 5px;
+  cursor: pointer;
   -webkit-transition: all 500ms cubic-bezier(0.490, 0.025, 0.490, 1); /* older webkit */
   -webkit-transition: all 500ms cubic-bezier(0.490, 0.025, 0.490, 1.005);
      -moz-transition: all 500ms cubic-bezier(0.490, 0.025, 0.490, 1.005);
@@ -195,6 +197,10 @@ body {
   -webkit-transition-delay: 1s;
 }
 
+#intro-header-outer.homepage, #intro-header-gray.homepage, #intro-header-content.homepage {
+  height: 100vh;
+}
+
 #intro-header-gray, #intro-header-content {
   position: absolute;
   height: 500px;
@@ -214,7 +220,13 @@ body {
   margin-right: auto;
   left: 0;
   right: 0;
+  cursor: pointer;
   margin-top: 100px;
+}
+
+#intro-logo.homepage {
+  height: 30vh !important;
+  margin-top: 25vh !important;
 }
 
 #intro-header-buttons-outer {
@@ -222,6 +234,10 @@ body {
   height: 40px;
   position: absolute;
   margin-top: 350px;
+}
+
+#intro-header-buttons-outer.homepage {
+  margin-top: 80vh !important;
 }
 
 .intro-button {
@@ -315,17 +331,19 @@ body {
 #carousel-buttons {
   position: relative;
   height: 100%;
+  pointer-events: none;
 }
 
 #left-arr, #right-arr {
   position: absolute;
   height: 100px;
+  pointer-events: auto;
   width: 100px;
   top: 50%;
   opacity: 0.5;
   cursor: pointer;
-  transition: opacity 0.5s ease-in-out;
-  -webkit-transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out, left 0.25s, right 0.25s;
+  -webkit-transition: opacity 0.5s ease-in-out, left 0.25s, right 0.25s;
 }
 
 #left-arr:hover, #right-arr:hover {
@@ -345,19 +363,27 @@ body {
   right: 50px;
 }
 
+#left-arr:active {
+  left: 25px;
+}
+
+#right-arr:active {
+  right: 25px;
+}
+
 #carousel-black {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 #carousel-back {
   background-size: cover;
   background-position: 50% 50%;
   background-image: url('pics/ny/efawouhfuiejwhiusdhfihe.jpg');
-  -webkit-filter: blur(5px);
-  -moz-filter: blur(5px);
-  -o-filter: blur(5px);
-  -ms-filter: blur(5px);
-  filter: blur(5px);
+  -webkit-filter: blur(20px);
+  -moz-filter: blur(20px);
+  -o-filter: blur(20px);
+  -ms-filter: blur(20px);
+  filter: blur(20px);
   transition: background-image 1.5s;
   -webkit-transition: background-image 1.5s;
 }
@@ -441,6 +467,23 @@ body {
 #more {
   float: right;
   cursor: pointer;
+}
+
+#direct-arr {
+  transform-origin: 50% 50%;
+  -webkit-transform-origin: 50% 50%;
+  -moz-transform-origin: 50% 50%;
+  transform: scaleY(1);
+  -webkit-transform: scaleY(1);
+  -moz-transform: scaleY(1);
+  transition: transform 0.5s, -webkit-transform 0.5s, -moz-transform 0.5s;
+  -webkit-transition: transform 0.5s, -webkit-transform 0.5s, -moz-transform 0.5s;
+}
+
+#direct-arr.down {
+  transform: scaleY(-1);
+  -webkit-transform: scaleY(-1);
+  -moz-transform: scaleY(-1);
 }
 
 #carousel-info-bottom {
