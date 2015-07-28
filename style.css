@@ -375,7 +375,12 @@ body {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
+.carousel-white {
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+
 #carousel-back {
+  background-color: rgba(0, 0, 0, 0.8);
   background-size: cover;
   background-position: 50% 50%;
   background-image: url('pics/ny/efawouhfuiejwhiusdhfihe.jpg');
@@ -400,7 +405,7 @@ body {
 }
 
 #carousel-info {
-  background-color: #D2E6BC;
+  background-color: #F5F9F0;
   background-image: url('backgrounds/brushed-alum-dark.png');
   margin: 0;
   height: 30vh;
@@ -409,6 +414,10 @@ body {
   z-index:230;
   transition: margin-top 0.5s;
   -webkit-transition: margin-top 0.5s;
+}
+
+#carousel-info.darker {
+  background-color: #0A0F06;
 }
 
 #carousel-info.hidden {
@@ -513,11 +522,11 @@ body {
 }
 
 .carousel-preview.selected {
-  border: 2px solid red;
+  border: 2px solid white;
 }
 
 .carousel-preview:hover {
-  border: 2px solid rgba(255, 0, 0, 0.3);
+  border: 2px solid rgba(255, 255, 255, 0.3);
 }
 
 .preview-overlay {
@@ -542,7 +551,7 @@ body {
   color: white;
   text-shadow: 0 0 3px black;
   bottom: 3px;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(100, 100, 100, 0.3);
   width: 100%;
   text-align: center;
 }
@@ -555,6 +564,7 @@ body {
   width: 90vw;
   left: 0;
   right: 0;
+  box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.7);
   margin-left: auto;
   margin-right: auto;
   background-color: #D2E6BC;
