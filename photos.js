@@ -11,7 +11,7 @@ var Photo = function(num, add, title, dims, medium) {
   this.medium = medium;
   this.init = function() {
     $("#carousel-info-bottom").append("<div id='preview"+this.num+"' class='carousel-preview'><div class='preview-overlay'><p>"+this.titley+"</p></div></div>");
-    $("#preview"+this.num).css("background-image", "url('"+add+"')")
+    $("#preview"+this.num).css("background-image", "url('thumbnails/"+add+"')")
   }
   this.init();
 }
