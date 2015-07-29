@@ -1,5 +1,8 @@
 var underHidden = false;
 
+var annoyingtimeout;
+var headerActive;
+
 var toggleUnder = function(){
   if(underHidden) {
     setTimeout(function() {$("#direct-arr").addClass("down")}, 500);
@@ -15,18 +18,32 @@ var toggleUnder = function(){
   }
 }
 
+var toggleHeaderActive = function() {
+  if(headerActive) {
+    clearTimeout(annoyingtimeout);
+    headerActive = false;
+    $("#header-logo").removeClass('active');
+  }
+  else {
+    annoyingtimeout = setTimeout(function() {
+      headerActive = true;
+    }, 500)
+    $("#header-logo").addClass('active');
+  }
+}
+
 $(document).ready(function() {
   $("#more").click(function() {
     toggleUnder();
   })
+  $("#header-outer").hover(function() {
+    toggleHeaderActive()
+  }, function() {
+    toggleHeaderActive();
+  })
   $('#header-logo').click(function() {
-    if(!($("#header-outer").hasClass("hidden"))) {
+    if(headerActive) {
       location.href = 'index.html';
-    }
-    else {
-      headerShown = true;
-      clearInterval(slideshow);
-      $("#header-outer, #header-outer-instructs").addClass("shown");
     }
   })
 })

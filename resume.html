@@ -6,7 +6,7 @@
   <script language="javascript" type="text/javascript" src="jquery/jquery.js"></script>
   <script language="javascript" type="text/javascript" src="jquery/jqueryui.js"></script>
   <script language="javascript" type="text/javascript" src="home-ui.js"></script>
-  <title>Joanna First</title>
+  <title>Joanna First - Resume</title>
 </head>
 <body>
   <div id="everything" class="full-window">
@@ -14,10 +14,10 @@
       <div id="fixed-outer" class="full-window">
         <div id="header-outer">
           <img src="logos/logo-header.png" id="header-logo"/>
-          <a href='paintings.html' class="header-button" id="paintings-header">paintings</a>
-          <a href='pastels.html' class="header-button" id="pastels-header">pastels</a>
-          <a href='photos.html' class="header-button" id="photos-header">photography</a>
-          <a href='about.html' class="header-button selected" id="about-header">about</a>
+          <a href='index.html' class="header-button" id="paintings-header">home</a>
+          <a href='statement.html' class="header-button" id="pastels-header"><nobr>about my art</nobr></a>
+          <a href='contact.html' class="header-button" id="photos-header">contact</a>
+          <a href='resume.html' class="header-button selected" id="about-header">resume</a>
         </div>
         <!-- <div id="header-outer-instructs">
           <p>hover for links</p>
@@ -27,28 +27,30 @@
         <div id="intro-header-outer">
           <div id="intro-header-gray"></div>
           <div id="intro-header-content">
-            <img id="intro-logo" onclick="location.href = 'index.html'" src="logos/logo-large.png"/>
+            <p id='about-text'>resume</p>
+            <div class='hr' id="hr-header"></div>
+            <img id="intro-logo" class='about-logo' onclick="location.href = 'index.html'" src="logos/logo-large.png"/>
             <div id="intro-header-buttons-outer">
               <table width="100%">
                 <tr>
                   <td width="20%">
-                    <div id="paintings-button" class="intro-button" onclick="location.href = 'paintings.html'">
-                      <p class="button-text">paintings</p>
+                    <div id="paintings-button" class="intro-button" onclick="location.href = 'index.html'">
+                      <p class="button-text">home</p>
                     </div>
                   </td>
                   <td width="20%">
-                    <div id="pastels-button" class="intro-button" onclick="location.href = 'pastels.html'">
-                      <p class="button-text">pastels</p>
+                    <div id="pastels-button" class="intro-button" onclick="location.href = 'statement.html'">
+                      <p class="button-text" style="font-size: 20px">artist's statement</p>
                     </div>
                   </td>
                   <td width="20%">
-                    <div id="photos-button" class="intro-button" onclick="location.href = 'photos.html'">
-                      <p class="button-text">photography</p>
+                    <div id="photos-button" class="intro-button" onclick="location.href = 'contact.html'">
+                      <p class="button-text">contact</p>
                     </div>
                   </td>
                   <td width="20%">
-                    <div id="about-button" class="intro-button" onclick="location.href = 'about.html'">
-                      <p class="button-text">about</p>
+                    <div id="about-button" class="intro-button selected" onclick="location.href = 'resume.html'">
+                      <p class="button-text">resume</p>
                     </div>
                   </td>
                 </tr>
@@ -113,7 +115,7 @@
             </div>
             <div id="footer">
               <img src="logos/logo-large.png" id="footer-logo"/>
-              <p>Joanna First, copyright 2015.</p>
+              <p>Joanna First, &copy; 2015.</p>
               <p>site created by Noah Finer</p>
             </div>
           </div>
