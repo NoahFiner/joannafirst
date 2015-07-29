@@ -1,5 +1,5 @@
 var setImg = function(wat) {
-  $("#carousel-back").css("background-image", "url('"+wat+"')");
+  $("#carousel-back").css("background-image", "url('thumbnails/"+wat+"')");
   $("#carousel-front").css("background-image", "url('"+wat+"')");
 }
 

@@ -22,13 +22,11 @@ var toggleHeaderActive = function() {
   if(headerActive) {
     clearTimeout(annoyingtimeout);
     headerActive = false;
-    $("#header-logo").removeClass('active');
   }
   else {
     annoyingtimeout = setTimeout(function() {
       headerActive = true;
     }, 500)
-    $("#header-logo").addClass('active');
   }
 }
 
