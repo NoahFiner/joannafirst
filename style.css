@@ -162,6 +162,8 @@ body {
   font-weight: 100;
   transition: max-width 0.25s, opacity 0.5s;
   -webkit-transition: max-width 0.25s, opacity 0.5s;
+  -o-transition: max-width 0.25s, opacity 0.5s;
+  -moz-transition: max-width 0.25s, opacity 0.5s;
 }
 
 .header-button:hover, .header-button.selected {
@@ -212,14 +214,24 @@ body {
   box-shadow: 0px 5px 5px black;
   background-size: cover;
   background-position: 50% 50%;
-  transition: background-image 1s;
-  -webkit-transition: background-image 1s;
+  transition: all 1s;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  -o-transition: all 1s;
+  -ms-transition: all 1s;
   transition-delay: 1s;
   -webkit-transition-delay: 1s;
+  -moz-transition-delay: 1s;
+  -o-transition-delay: 1s;
+  -ms-transition-delay: 1s;
 }
 
 #intro-header-outer.homepage, #intro-header-gray.homepage, #intro-header-content.homepage {
   height: 100vh;
+}
+
+#intro-header-gray.homepage {
+  width: 100vw;
 }
 
 #intro-header-gray, #intro-header-content {
@@ -264,6 +276,13 @@ body {
   font-weight: 100;
 }
 
+@media screen and (max-width: 800px) {
+  #about-text {
+    font-size: 50px !important;
+    margin-top: 75px !important;
+  }
+}
+
 #intro-logo.homepage {
   height: 30vh !important;
   margin-top: 25vh !important;
@@ -291,8 +310,11 @@ body {
   background-color: transparent;
   margin-left: auto;
   margin-right: auto;
-  transition: background-color 0.25s;
-  -webkit-transition: background-color 0.25s;
+  transition: all 0.25s;
+  -webkit-transition: all 0.25s;
+  -moz-transition: all 0.25s;
+  -o-transition: all 0.25s;
+  -ms-transition: all 0.25s;
 }
 
 #paintings-button:hover, #paintings-button.selected {
@@ -318,8 +340,11 @@ body {
 #about-table {
   margin-top: 50px;
   opacity: 1;
-  transition: opacity 0.5s;
-  -webkit-transition: opacity 0.5s;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
 }
 
 #about-table.hidden {
@@ -334,8 +359,11 @@ body {
   color: white;
   font-weight: 100;
   text-align: center;
-  transition: color 0.25s;
-  -webkit-transition: color 0.25s;
+  transition: all 0.25s;
+  -webkit-transition: all 0.25s;
+  -moz-transition: all 0.25s;
+  -o-transition: all 0.25s;
+  -ms-transition: all 0.25s;
 }
 
 #content {
@@ -357,8 +385,11 @@ body {
   height: 70vh;
   width: 100vw;
   z-index: -100;
-  transition: height 0.5s;
-  -webkit-transition: height 0.5s;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
 }
 
 #carousel-back, #carousel-black, #carousel-front, #carousel-buttons {
@@ -366,8 +397,11 @@ body {
   width: 100%;
   margin: 0;
   position: absolute;
-  transition: height 0.5s;
-  -webkit-transition: height 0.5s;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
 }
 
 #carousel-back.hidden, #carousel-black.hidden, #carousel-front.hidden, #carousel-buttons.hidden {
@@ -396,6 +430,9 @@ body {
   cursor: pointer;
   transition: opacity 0.5s ease-in-out, left 0.25s, right 0.25s;
   -webkit-transition: opacity 0.5s ease-in-out, left 0.25s, right 0.25s;
+  -o-transition: opacity 0.5s ease-in-out, left 0.25s, right 0.25s;
+  -moz-transition: opacity 0.5s ease-in-out, left 0.25s, right 0.25s;
+  -ms-transition: opacity 0.5s ease-in-out, left 0.25s, right 0.25s;
 }
 
 #left-arr:hover, #right-arr:hover {
@@ -443,13 +480,22 @@ body {
   filter: blur(20px);
   transition: background-image 1.5s;
   -webkit-transition: background-image 1.5s;
+  -moz-transition: background-image 1.5s;
+  -o-transition: background-image 1.5s;
+  -ms-transition: background-image 1.5s;
 }
 
 #carousel-front {
-  transition: background-image 0.5s;
-  -webkit-transition: background-image 0.5s;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
   transition-delay: 0.5s;
   -webkit-transition-delay: 0.5s;
+  -o-transition-delay: 0.5s;
+  -moz-transition-delay: 0.5s;
+  -ms-transition-delay: 0.5s;
   background-size: contain;
   background-position: 50% 50%;
   background-image: url('pics/ny/panoq34edgf4q3wesdf2.jpg');
@@ -464,8 +510,11 @@ body {
   width: 100vw;
   box-shadow: 0 0 5px 5px black;
   z-index:230;
-  transition: margin-top 0.5s;
-  -webkit-transition: margin-top 0.5s;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
 }
 
 #carousel-info.darker {
@@ -483,8 +532,11 @@ body {
   width: 100%;
   line-height: 7vh;
   background-color: rgba(0, 0, 0, 0.7);
-  transition: height 0.5s;
-  -webkit-transition: height 0.5s;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
 }
 
 #carousel-info-top.hidden {
@@ -493,18 +545,16 @@ body {
 
 #carousel-info-top * {
   vertical-align: top;
-  display: inline-block;
+  position: absolute;
   margin: 0;
   line-height: 6vh;
-  left: 20px;
-  right: 20px;
 }
 
 #car-title {
   font-size: 4vh;
   line-height: 6vh;
   font-weight: 900;
-  margin: 0;
+  left: 1vw;
   vertical-align: top;
   color: white;
 }
@@ -515,6 +565,34 @@ body {
   margin: 0;
   color: white;
   vertical-align: middle;
+}
+
+#car-medium {
+  left: 35vw;
+}
+
+#car-dimensions {
+  left: 60vw;
+}
+
+#more {
+  right: 20px;
+}
+
+#direct-arr {
+  right: 125px;
+}
+
+@media screen and (max-width: 700px) {
+  #car-title {
+    font-size: 2vh;
+  }
+  #car-medium, #car-dimensions, #more, #direct-arr {
+    font-size: 2vh;
+  }
+  #direct-arr {
+    right: 100px;
+  }
 }
 
 .divider {
@@ -534,24 +612,36 @@ body {
   transform-origin: 50% 50%;
   -webkit-transform-origin: 50% 50%;
   -moz-transform-origin: 50% 50%;
+  -o-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
   transform: scaleY(1);
   -webkit-transform: scaleY(1);
   -moz-transform: scaleY(1);
-  transition: transform 0.5s, -webkit-transform 0.5s, -moz-transform 0.5s;
-  -webkit-transition: transform 0.5s, -webkit-transform 0.5s, -moz-transform 0.5s;
+  -o-transform: scaleY(1);
+  -ms-transform: scaleY(1);
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
 }
 
 #direct-arr.down {
   transform: scaleY(-1);
   -webkit-transform: scaleY(-1);
   -moz-transform: scaleY(-1);
+  -o-transform: scaleY(-1);
+  -ms-transform: scaleY(-1);
 }
 
 #carousel-info-bottom {
   height: 80%;
   overflow-y: scroll;
-  transition: height 0.5s;
-  -webkit-transition: height 0.5s;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
 }
 
 #carousel-info-bottom.hidden {
@@ -569,8 +659,11 @@ body {
   border: 2px solid transparent;
   margin: 10px;
   cursor: pointer;
-  transition: border 0.25s;
-  -webkit-transition: border 0.25s;
+  transition: all 0.25s;
+  -webkit-transition: all 0.25s;
+  -moz-transition: all 0.25s;
+  -o-transition: all 0.25s;
+  -ms-transition: all 0.25s;
 }
 
 .carousel-preview.selected {
@@ -654,6 +747,9 @@ body {
   color: #3E5921;
   transition: all 0.25s;
   -webkit-transition: all 0.25s;
+  -moz-transition: all 0.25s;
+  -o-transition: all 0.25s;
+  -ms-transition: all 0.25s;
 }
 
 .section-thing a:hover {
@@ -711,7 +807,7 @@ body {
   width: 100%;
   margin: 0;
   line-height: 100px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 #footer * {
@@ -743,6 +839,9 @@ body {
   color: #1F2D11;
   transition: all 0.25s !important;
   -webkit-transition: all 0.25s !important;
+  -moz-transition: all 0.25s !important;
+  -o-transition: all 0.25s !important;
+  -ms-transition: all 0.25s !important;
 }
 
 #footer a:hover {
@@ -751,6 +850,20 @@ body {
 
 #footer td {
   margin: 0;
+}
+
+@media screen and (max-width: 1100px) {
+  #footer p, a {
+    font-size: 15px;
+    line-height: 18px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  #footer p, a {
+    font-size: 10px;
+    line-height: 12px;
+  }
 }
 
 
