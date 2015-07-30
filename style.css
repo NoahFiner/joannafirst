@@ -118,7 +118,7 @@ body {
   width: 197px;
   height: auto;
   margin: 0;
-  z-index: -1;
+  z-index: 0;
   position: absolute;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 30%, 0 30%);
   clip-path: polygon(0 0, 100% 0, 100% 30%, 0 30%);
