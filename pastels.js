@@ -48,11 +48,11 @@ $(document).ready(function() {
   var c1 = new Photo(1, "pastels/1.png", "Jerusalem Night", "45x30 framed", "pastel on paper");
   var c2 = new Photo(2, "pastels/2.png", "Coming Together", "32x45 framed", "pastel on paper");
   var c3 = new Photo(3, "pastels/3.png", "Archways", "28x18 framed", "pastel on paper");
-  var c4 = new Photo(4, "pastels/4.png", "Untitled", "18x14 framed", "pastel on paper");
-  var c5 = new Photo(5, "pastels/5.png", "Blue Morning", "18x14 framed", "pastel on paper");
-  var c6 = new Photo(6, "pastels/6.png", "Untitled", "18x14 framed", "pastel on paper");
-  var c7 = new Photo(7, "pastels/7.png", "Red Walls", "18x14 framed", "pastel on paper");
-  var c8 = new Photo(8, "pastels/8.png", "April's Approach", "18x14 framed", "pastel on paper");
+  var c4 = new Photo(4, "pastels/4.png", "Untitled", "18x14", "pastel on paper");
+  var c5 = new Photo(5, "pastels/5.png", "Blue Morning", "18x14", "pastel on paper");
+  var c6 = new Photo(6, "pastels/6.png", "Untitled", "18x14", "pastel on paper");
+  var c7 = new Photo(7, "pastels/7.png", "Red Walls", "18x14", "pastel on paper");
+  var c8 = new Photo(8, "pastels/8.png", "April's Approach", "18x14", "pastel on paper");
 
   cars = [c0, c1, c2, c3, c4, c5, c6, c7, c8];
   amtOfCars = cars.length;
