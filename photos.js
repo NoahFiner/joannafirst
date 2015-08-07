@@ -45,7 +45,7 @@ function isNumeric(n) { // thanks, stackoverflow!
 
 $(document).ready(function() {
   var c0 = new Photo(0, "photos/0.jpg", "Tomato Ribbons", "16x12", "digital");
-  var c1 = new Photo(1, "photos/1.jpg", "Ampsterdam Night", "9x6", "digital");
+  var c1 = new Photo(1, "photos/1.jpg", " Amsterdam Night", "9x6", "digital");
   var c2 = new Photo(2, "photos/2.jpg", "Sandy's Arrival", "14x15.5", "digital");
   var c3 = new Photo(3, "photos/3.jpg", "Waiting for Bee", "11.5x15.5", "digital");
   var c4 = new Photo(4, "photos/4.jpg", "Ominous", "14x16", "digital");
