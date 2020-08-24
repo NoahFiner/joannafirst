@@ -68,6 +68,10 @@ $(document).ready(function() {
   cars[19] = new Photo(19, "paintings/20.png", "Small #1, #2, #3", "each 6x8", "acrylic on canvas");
   cars[20] = new Photo(20, "paintings/21.png", "A Patch of Blue", "50x60", "acrylic/mixed media");
   cars[21] = new Photo(21, "paintings/22.png", "Streams", "52x32", "acrylic on canvas");
+  cars[22] = new Photo(22, "paintings/23.png", "Moving On", "54x32", "acrylic on canvas");
+  cars[23] = new Photo(23, "paintings/24.png", "Coming close", "30x22", "acrylic on canvas");
+  cars[24] = new Photo(24, "paintings/25.png", "Passage", "24x18", "acrylic on canvas");
+  cars[25] = new Photo(25, "paintings/26.png", "Pure Pleasure", "56x30", "acrylic on canvas");
 
   amtOfCars = cars.length;
   currCar = 0;

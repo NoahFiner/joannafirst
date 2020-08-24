@@ -870,6 +870,7 @@ body {
 .date {
   font-weight: 900;
   color: #344A1C;
+  margin-right: 0.5rem;
 }
 
 .lotsoftext p {
