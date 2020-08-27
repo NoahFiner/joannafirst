@@ -310,6 +310,8 @@ body {
   background-color: transparent;
   margin-left: auto;
   margin-right: auto;
+  color: white;
+  opacity: 1;
   transition: all 0.25s;
   -webkit-transition: all 0.25s;
   -moz-transition: all 0.25s;
