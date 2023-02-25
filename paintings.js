@@ -67,11 +67,23 @@ $(document).ready(function() {
   cars[18] = new Photo(18, "paintings/19.png", "Early Light", "58x42", "oil on canvas");
   cars[19] = new Photo(19, "paintings/20.png", "Small #1, #2, #3", "each 6x8", "acrylic on canvas");
   cars[20] = new Photo(20, "paintings/21.png", "A Patch of Blue", "50x60", "acrylic/mixed media");
-  cars[21] = new Photo(21, "paintings/22.png", "Streams", "52x32", "acrylic on canvas");
+  // cars[21] = new Photo(21, "paintings/22.png", "Streams", "52x32", "acrylic on canvas");
+  cars[21] = new Photo(21, "paintings/22.png", "The Stone Fountain", "52x32", "acrylic on canvas");
   cars[22] = new Photo(22, "paintings/23.png", "Moving On", "54x32", "acrylic on canvas");
-  cars[23] = new Photo(23, "paintings/24.png", "Coming close", "30x22", "acrylic on canvas");
+  cars[23] = new Photo(23, "paintings/comingclosertransparent.png", "Coming Close 1-4", "30x22", "acrylic on canvas");
   cars[24] = new Photo(24, "paintings/25.png", "Passage", "24x18", "acrylic on canvas");
   cars[25] = new Photo(25, "paintings/26.png", "Pure Pleasure", "56x30", "acrylic on canvas");
+  cars[26] = new Photo(26, "paintings/ComingApart.jpg", "Coming Apart", "37x25", "acrylic and rice paper on paper");
+  cars[27] = new Photo(27, "paintings/outoftheblue.jpg", "Out of the Blue", "37x25", "acrylic and rice paper on paper");
+  cars[28] = new Photo(28, "paintings/pickingupthesepieces.jpg", "Picking up the Pieces", "54x32", "acrylic and rice paper on paper");
+  cars[29] = new Photo(29, "paintings/unhinged.png", "Unhinged", "41x22 ", "acrylic/dital photo on rice paper");
+  // cars[26] = new Photo(26, "paintings/27.png", "Pure Pleasure", "56x30", "acrylic on canvas");
+  // cars[27] = new Photo(27, "paintings/28.png", "Pure Pleasure", "56x30", "acrylic on canvas");
+  // cars[28] = new Photo(28, "paintings/29.png", "Pure Pleasure", "56x30", "acrylic on canvas");
+  // cars[29] = new Photo(29, "paintings/30.png", "My Happy Place", "22x30", "acrylic on paper");
+  // cars[30] = new Photo(30, "paintings/31.png", "Pure Pleasure", "56x30", "acrylic on canvas");
+  // cars[31] = new Photo(31, "paintings/32.png", "Pure Pleasure", "56x30", "acrylic on canvas");
+  // cars[32] = new Photo(32, "paintings/33.png", "Pearl Lake", "40x28.5", "acrylic on paper");
 
   amtOfCars = cars.length;
   currCar = 0;

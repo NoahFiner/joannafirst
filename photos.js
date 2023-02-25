@@ -69,8 +69,9 @@ $(document).ready(function() {
   var c22 = new Photo(22, "photos/22.jpg", "Magic Morning", "12x16", "digital");
   var c23 = new Photo(23, "photos/23.jpg", "Spring Awakening", "12x16", "digital");
   var c24 = new Photo(24, "photos/24.jpg", "Noah's Wall", "16x16", "digital");
+  var c25 = new Photo(25, "photos/25.jpg", "Reflections in a City", "16x20", "digital");
 
-  cars = [c0, c1, c2, c3, c4, c5, c6, c7, c8, c9, c10, c11, c12, c13, c14, c15, c16, c17, c18, c19, c20, c21, c22, c23, c24];
+  cars = [c0, c1, c2, c3, c4, c5, c6, c7, c8, c9, c10, c11, c12, c13, c14, c15, c16, c17, c18, c19, c20, c21, c22, c23, c24, c25];
   amtOfCars = cars.length;
   currCar = 0;
   setPhotoCar(0);
