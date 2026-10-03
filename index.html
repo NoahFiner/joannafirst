@@ -1,17 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Joanna First's portfolio of art: photography, paintings, and pastels.">
   <meta name="keywords" content="joanna,first,jjoanafirst,joannafirst,art,photography,paintings,pastels,artwork,jjoana">
   <meta name="author" content="Joanna First">
   <link rel="icon" href="favicon.ico" type="image/x-icon"/>
   <link type="text/css" rel="stylesheet" href="style.css"/>
-  <script language="javascript" type="text/javascript" src="jquery/jquery.js"></script>
-  <script language="javascript" type="text/javascript" src="jquery/jqueryui.js"></script>
-  <script language="javascript" type="text/javascript" src="home-ui.js"></script>
+  <script defer src="home-ui.js"></script>
+  <script type="module" src="slideshow.js"></script>
+  <link rel="stylesheet" href="image-styles.css">
   <title>Joanna First</title>
 </head>
-<body>
+<body class="homepage-page">
   <div id="everything" class="full-window">
     <div id="content-outer" class="full-window">
       <div id="fixed-outer" class="full-window">
@@ -20,7 +22,7 @@
           <a href='paintings.html' class="header-button" id="paintings-header">paintings</a>
           <a href='pastels.html' class="header-button" id="pastels-header">pastels</a>
           <a href='photos.html' class="header-button" id="photos-header">photography</a>
-          <a href='about.html' class="header-button" id="about-header">about</a>
+          <a href='statement.html' class="header-button" id="about-header">about</a>
         </div>
         <!-- <div id="header-outer-instructs">
           <p>hover for links</p>
@@ -28,113 +30,23 @@
       </div>
       <div id="content" class="full-window">
         <div id="intro-header-outer" class="homepage">
+          <!-- generated:hero:start -->
+          <img class="hero-image" src="images/generated/homepage-0/a003b47da5f5a580/display-1280.webp" srcset="images/generated/homepage-0/a003b47da5f5a580/display-800.webp 800w, images/generated/homepage-0/a003b47da5f5a580/display-1280.webp 1280w" sizes="max(100vw, 157.44svh)" width="1280" height="813" alt="" aria-hidden="true" fetchpriority="high" decoding="async">
+          <!-- generated:hero:end -->
           <div id="intro-header-gray" class="homepage"></div>
           <div id="intro-header-content" class="homepage">
             <img id="intro-logo" alt="joanna first" class="homepage" src="logos/logo-large.png"/>
-            <div id="intro-header-buttons-outer" class="homepage">
-              <table width="100%">
-                <tr>
-                  <td width="33%">
-                    <a id="pastels-button" class="intro-button" href="statement.html">
-                      <p class="button-text" style="font-size: 20px">artist's statement</p>
-                    </a>
-                  </td>
-                  <td width="33%">
-                    <a id="photos-button" class="intro-button" href="resume.html">
-                      <p class="button-text">resume</p>
-                    </a>
-                  </td>
-                  <td width="33%">
-                    <a id="about-button" class="intro-button" href="contact.html">
-                      <p class="button-text">contact</p>
-                    </a>
-                  </td>
-                </tr>
-              </table>
-              <table width="100%" id="about-table">
-                <tr>
-                  <td width="33%">
-                    <a id="pastels-button" class="intro-button" href="photos.html">
-                      <p class="button-text">photography</p>
-                    </a>
-                  </td>
-                  <td width="33%">
-                    <a id="photos-button" class="intro-button" href="pastels.html">
-                      <p class="button-text">pastels</p>
-                    </a>
-                  </td>
-                  <td width="33%">
-                    <a id="about-button" class="intro-button" href="paintings.html">
-                      <p class="button-text">paintings</p>
-                    </a>
-                  </td>
-                </tr>
-              </table>
-            </div>
+            <nav id="intro-header-buttons-outer" class="homepage" aria-label="Portfolio">
+              <a class="intro-button tone-light" href="statement.html">artist's statement</a>
+              <a class="intro-button tone-medium" href="resume.html">resume</a>
+              <a class="intro-button tone-dark" href="contact.html">contact</a>
+              <a class="intro-button tone-light" href="photos.html">photography</a>
+              <a class="intro-button tone-medium" href="pastels.html">pastels</a>
+              <a class="intro-button tone-dark" href="paintings.html">paintings</a>
+            </nav>
           </div>
         </div>
-          <!-- <div id="other-content">
-            <div id="imlazy">
-            </div>
-            <h1>I Am</h1>
-            <table width="90%" class="section-thing">
-              <tr>
-                <td width="40%">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque leo a velit sagittis sollicitudin. Nunc posuere mi sit amet ligula sagittis rhoncus. Etiam dictum scelerisque congue.</p>
-                </td>
-                <td width="60%">
-                  <img src="pics/ny/skyline1.jpg" class="round-thing"/>
-                </td>
-              </tr>
-            </table>
-            <div class="hr">
-            </div>
-            <h1>Pastels</h1>
-            <table width="90%" class="section-thing">
-              <tr>
-                <td width="60%">
-                  <img src="pics/ny/skyline2.jpg" class="round-thing"/>
-                </td>
-                <td width="40%">
-                  <p style="text-align:left">In ut porttitor lectus. Duis mollis tellus eget eros hendrerit, ut tristique nunc ullamcorper. Vivamus mollis ornare neque quis dignissim. Fusce facilisis est erat, sed pulvinar nibh semper at.</p>
-                </td>
-              </tr>
-            </table>
-            <div class="hr">
-            </div>
-            <h1>Paintings</h1>
-            <table width="90%" class="section-thing">
-              <tr>
-                <td width="40%">
-                  <p style="text-align:right">In ut porttitor lectus. Duis mollis tellus eget eros hendrerit, ut tristique nunc ullamcorper. Vivamus mollis ornare neque quis dignissim. Fusce facilisis est erat, sed pulvinar nibh semper at.</p>
-                </td>
-                <td width="60%">
-                  <img src="pics/ny/sun1.jpg" class="round-thing"/>
-                </td>
-              </tr>
-            </table>
-            <div class="hr">
-            </div>
-            <h1>Photography</h1>
-            <table width="90%" class="section-thing">
-              <tr>
-                <td width="60%">
-                  <img src="pics/ny/wtc1.jpg" class="round-thing"/>
-                </td>
-                <td width="40%">
-                  <p style="text-align:left">In ut porttitor lectus. Duis mollis tellus eget eros hendrerit, ut tristique nunc ullamcorper. Vivamus mollis ornare neque quis dignissim. Fusce facilisis est erat, sed pulvinar nibh semper at.</p>
-                </td>
-              </tr>
-            </table>
-            <div class="hr">
-            </div>
-            <div id="footer">
-              <img src="logos/logo-large.png" id="footer-logo"/>
-              <p>Joanna First, copyright 2015.</p>
-              <p>site created by Noah Finer</p>
-            </div>
-          </div>
-        </div> -->
+
       </div>
     </div>
   </div>

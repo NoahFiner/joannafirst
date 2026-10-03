@@ -1,0 +1,772 @@
+[
+  {
+    "id": "paintings-00-breakthrough-1-and-2",
+    "category": "paintings",
+    "title": "Breakthrough 1 and 2",
+    "dimensions": "each 18x14",
+    "medium": "acrylic on canvas",
+    "description": "",
+    "order": 0,
+    "source": "paintings-fullsize/0.png"
+  },
+  {
+    "id": "paintings-01-under-the-sun",
+    "category": "paintings",
+    "title": "Under the Sun",
+    "dimensions": "44x30",
+    "medium": "acrylic on canvas/rice paper",
+    "description": "",
+    "order": 1,
+    "source": "paintings-fullsize/1.png"
+  },
+  {
+    "id": "paintings-02-deep-within",
+    "category": "paintings",
+    "title": "Deep Within",
+    "dimensions": "48x18",
+    "medium": "acrylic/rice paper on canvas",
+    "description": "",
+    "order": 2,
+    "source": "paintings-fullsize/3.png"
+  },
+  {
+    "id": "paintings-03-dividing-line",
+    "category": "paintings",
+    "title": "Dividing Line",
+    "dimensions": "52x18",
+    "medium": "acrylic/rice paper on canvas",
+    "description": "",
+    "order": 3,
+    "source": "paintings-fullsize/4.png"
+  },
+  {
+    "id": "paintings-04-line-1-2-3-4",
+    "category": "paintings",
+    "title": "Line #1, #2, #3, #4",
+    "dimensions": "30x22 each",
+    "medium": "acrylic on canvas/rice paper",
+    "description": "",
+    "order": 4,
+    "source": "paintings-fullsize/5.png"
+  },
+  {
+    "id": "paintings-05-night-waters",
+    "category": "paintings",
+    "title": "Night Waters",
+    "dimensions": "54x32",
+    "medium": "acrylic on canvas",
+    "description": "",
+    "order": 5,
+    "source": "paintings-fullsize/6.png"
+  },
+  {
+    "id": "paintings-06-chartreuse-wall",
+    "category": "paintings",
+    "title": "Chartreuse Wall",
+    "dimensions": "54x32",
+    "medium": "acrylic/rice paper on canvas",
+    "description": "",
+    "order": 6,
+    "source": "paintings-fullsize/7.png"
+  },
+  {
+    "id": "paintings-07-beyond-the-grass",
+    "category": "paintings",
+    "title": "Beyond the Grass",
+    "dimensions": "60x50",
+    "medium": "acrylic/mixed media",
+    "description": "",
+    "order": 7,
+    "source": "paintings-fullsize/8.png"
+  },
+  {
+    "id": "paintings-08-night-sails",
+    "category": "paintings",
+    "title": "Night Sails",
+    "dimensions": "60x46",
+    "medium": "acrylic/mixed media",
+    "description": "",
+    "order": 8,
+    "source": "paintings-fullsize/9.png"
+  },
+  {
+    "id": "paintings-09-winter-garden",
+    "category": "paintings",
+    "title": "Winter Garden",
+    "dimensions": "42x76",
+    "medium": "acrylic/mixed media",
+    "description": "",
+    "order": 9,
+    "source": "paintings-fullsize/10.png"
+  },
+  {
+    "id": "paintings-10-unsuspecting",
+    "category": "paintings",
+    "title": "Unsuspecting",
+    "dimensions": "50x40",
+    "medium": "acrylic/mixed media",
+    "description": "",
+    "order": 10,
+    "source": "paintings-fullsize/11.png"
+  },
+  {
+    "id": "paintings-11-variation-of-a-vase",
+    "category": "paintings",
+    "title": "Variation of a Vase",
+    "dimensions": "60x50",
+    "medium": "acrylic/mixed media",
+    "description": "",
+    "order": 11,
+    "source": "paintings-fullsize/12.png"
+  },
+  {
+    "id": "paintings-12-city-forest",
+    "category": "paintings",
+    "title": "City Forest",
+    "dimensions": "50x20",
+    "medium": "acrylic on canvas",
+    "description": "",
+    "order": 12,
+    "source": "paintings-fullsize/13.png"
+  },
+  {
+    "id": "paintings-13-towards-the-garden",
+    "category": "paintings",
+    "title": "Towards the Garden",
+    "dimensions": "54x18",
+    "medium": "acrylic/mixed media",
+    "description": "",
+    "order": 13,
+    "source": "paintings/14.png"
+  },
+  {
+    "id": "paintings-14-deep-water",
+    "category": "paintings",
+    "title": "Deep Water",
+    "dimensions": "48x28",
+    "medium": "acrylic/mixed media on canvas",
+    "description": "",
+    "order": 14,
+    "source": "paintings-fullsize/15.png"
+  },
+  {
+    "id": "paintings-15-past-present-future",
+    "category": "paintings",
+    "title": "Past, Present, Future",
+    "dimensions": "44x54",
+    "medium": "oil on canvas",
+    "description": "",
+    "order": 15,
+    "source": "paintings-fullsize/16.png"
+  },
+  {
+    "id": "paintings-16-veiled-women-series-4",
+    "category": "paintings",
+    "title": "Veiled Women Series #4",
+    "dimensions": "18x78",
+    "medium": "acrylic on canvas",
+    "description": "",
+    "order": 16,
+    "source": "paintings-fullsize/17.png"
+  },
+  {
+    "id": "paintings-17-golden-summers",
+    "category": "paintings",
+    "title": "Golden Summers",
+    "dimensions": "70x52",
+    "medium": "oil on canvas",
+    "description": "",
+    "order": 17,
+    "source": "paintings-fullsize/18.png"
+  },
+  {
+    "id": "paintings-18-early-light",
+    "category": "paintings",
+    "title": "Early Light",
+    "dimensions": "58x42",
+    "medium": "oil on canvas",
+    "description": "",
+    "order": 18,
+    "source": "paintings-fullsize/19.png"
+  },
+  {
+    "id": "paintings-19-small-1-2-3",
+    "category": "paintings",
+    "title": "Small #1, #2, #3",
+    "dimensions": "each 6x8",
+    "medium": "acrylic on canvas",
+    "description": "",
+    "order": 19,
+    "source": "paintings-fullsize/20.png"
+  },
+  {
+    "id": "paintings-20-a-patch-of-blue",
+    "category": "paintings",
+    "title": "A Patch of Blue",
+    "dimensions": "50x60",
+    "medium": "acrylic/mixed media",
+    "description": "",
+    "order": 20,
+    "source": "paintings/21.png"
+  },
+  {
+    "id": "paintings-21-the-stone-fountain",
+    "category": "paintings",
+    "title": "The Stone Fountain",
+    "dimensions": "52x32",
+    "medium": "acrylic on canvas",
+    "description": "",
+    "order": 21,
+    "source": "paintings/22.png"
+  },
+  {
+    "id": "paintings-22-moving-on",
+    "category": "paintings",
+    "title": "Moving On",
+    "dimensions": "54x32",
+    "medium": "acrylic on canvas",
+    "description": "",
+    "order": 22,
+    "source": "paintings/23.png"
+  },
+  {
+    "id": "paintings-23-coming-close-1-4",
+    "category": "paintings",
+    "title": "Coming Close 1-4",
+    "dimensions": "30x22",
+    "medium": "acrylic on canvas",
+    "description": "",
+    "order": 23,
+    "source": "paintings/comingclosertransparent.png"
+  },
+  {
+    "id": "paintings-24-passage",
+    "category": "paintings",
+    "title": "Passage",
+    "dimensions": "24x18",
+    "medium": "acrylic on canvas",
+    "description": "",
+    "order": 24,
+    "source": "paintings/25.png"
+  },
+  {
+    "id": "paintings-25-pure-pleasure",
+    "category": "paintings",
+    "title": "Pure Pleasure",
+    "dimensions": "56x30",
+    "medium": "acrylic on canvas",
+    "description": "",
+    "order": 25,
+    "source": "paintings/26.png"
+  },
+  {
+    "id": "paintings-26-coming-apart",
+    "category": "paintings",
+    "title": "Coming Apart",
+    "dimensions": "37x25",
+    "medium": "acrylic and rice paper on paper",
+    "description": "",
+    "order": 26,
+    "source": "paintings/ComingApart.jpg"
+  },
+  {
+    "id": "paintings-27-out-of-the-blue",
+    "category": "paintings",
+    "title": "Out of the Blue",
+    "dimensions": "37x25",
+    "medium": "acrylic and rice paper on paper",
+    "description": "",
+    "order": 27,
+    "source": "paintings/outoftheblue.jpg"
+  },
+  {
+    "id": "paintings-28-picking-up-the-pieces",
+    "category": "paintings",
+    "title": "Picking up the Pieces",
+    "dimensions": "54x32",
+    "medium": "acrylic and rice paper on paper",
+    "description": "",
+    "order": 28,
+    "source": "paintings/pickingupthesepieces.jpg"
+  },
+  {
+    "id": "paintings-29-unhinged",
+    "category": "paintings",
+    "title": "Unhinged",
+    "dimensions": "41x22 ",
+    "medium": "acrylic/dital photo on rice paper",
+    "description": "",
+    "order": 29,
+    "source": "paintings/unhinged.png"
+  },
+  {
+    "id": "paintings-30-the-most-happy-place",
+    "category": "paintings",
+    "title": "The Most Happy Place",
+    "dimensions": "40x30 ",
+    "medium": "acrylic with mixed media",
+    "description": "",
+    "order": 30,
+    "source": "paintings/themosthappyplace.jpg"
+  },
+  {
+    "id": "pastels-00-the-market",
+    "category": "pastels",
+    "title": "The Market",
+    "dimensions": "32x45 framed",
+    "medium": "pastel on paper",
+    "description": "",
+    "order": 0,
+    "source": "pastels/0.png"
+  },
+  {
+    "id": "pastels-01-jerusalem-night",
+    "category": "pastels",
+    "title": "Jerusalem Night",
+    "dimensions": "45x30 framed",
+    "medium": "pastel on paper",
+    "description": "",
+    "order": 1,
+    "source": "pastels/1.png"
+  },
+  {
+    "id": "pastels-02-coming-together",
+    "category": "pastels",
+    "title": "Coming Together",
+    "dimensions": "32x45 framed",
+    "medium": "pastel on paper",
+    "description": "",
+    "order": 2,
+    "source": "pastels/2.png"
+  },
+  {
+    "id": "pastels-03-archways",
+    "category": "pastels",
+    "title": "Archways",
+    "dimensions": "28x18 framed",
+    "medium": "pastel on paper",
+    "description": "",
+    "order": 3,
+    "source": "pastels/3.png"
+  },
+  {
+    "id": "pastels-04-untitled",
+    "category": "pastels",
+    "title": "Untitled",
+    "dimensions": "18x14",
+    "medium": "pastel on paper",
+    "description": "",
+    "order": 4,
+    "source": "pastels/4.png"
+  },
+  {
+    "id": "pastels-05-blue-morning",
+    "category": "pastels",
+    "title": "Blue Morning",
+    "dimensions": "18x14",
+    "medium": "pastel on paper",
+    "description": "",
+    "order": 5,
+    "source": "pastels/5.png"
+  },
+  {
+    "id": "pastels-06-untitled",
+    "category": "pastels",
+    "title": "Untitled",
+    "dimensions": "18x14",
+    "medium": "pastel on paper",
+    "description": "",
+    "order": 6,
+    "source": "pastels/6.png"
+  },
+  {
+    "id": "pastels-07-red-walls",
+    "category": "pastels",
+    "title": "Red Walls",
+    "dimensions": "18x14",
+    "medium": "pastel on paper",
+    "description": "",
+    "order": 7,
+    "source": "pastels/7.png"
+  },
+  {
+    "id": "pastels-08-april-s-approach",
+    "category": "pastels",
+    "title": "April's Approach",
+    "dimensions": "18x14",
+    "medium": "pastel on paper",
+    "description": "",
+    "order": 8,
+    "source": "pastels/8.png"
+  },
+  {
+    "id": "photos-00-tomato-ribbons",
+    "category": "photos",
+    "title": "Tomato Ribbons",
+    "dimensions": "16x12",
+    "medium": "digital",
+    "description": "",
+    "order": 0,
+    "source": "photos/0.jpg"
+  },
+  {
+    "id": "photos-01-amsterdam-night",
+    "category": "photos",
+    "title": " Amsterdam Night",
+    "dimensions": "9x6",
+    "medium": "digital",
+    "description": "",
+    "order": 1,
+    "source": "photos-fullsize/1.jpg"
+  },
+  {
+    "id": "photos-02-sandy-s-arrival",
+    "category": "photos",
+    "title": "Sandy's Arrival",
+    "dimensions": "14x15.5",
+    "medium": "digital",
+    "description": "",
+    "order": 2,
+    "source": "photos-fullsize/2.jpg"
+  },
+  {
+    "id": "photos-03-waiting-for-bee",
+    "category": "photos",
+    "title": "Waiting for Bee",
+    "dimensions": "11.5x15.5",
+    "medium": "digital",
+    "description": "",
+    "order": 3,
+    "source": "photos-fullsize/3.jpg"
+  },
+  {
+    "id": "photos-04-ominous",
+    "category": "photos",
+    "title": "Ominous",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 4,
+    "source": "photos-fullsize/4.jpg"
+  },
+  {
+    "id": "photos-05-pushing-through",
+    "category": "photos",
+    "title": "Pushing Through",
+    "dimensions": "16x14",
+    "medium": "digital",
+    "description": "",
+    "order": 5,
+    "source": "photos-fullsize/5.jpg"
+  },
+  {
+    "id": "photos-06-watching-his-world",
+    "category": "photos",
+    "title": "Watching His World",
+    "dimensions": "14x14",
+    "medium": "digital",
+    "description": "",
+    "order": 6,
+    "source": "photos/6.jpg"
+  },
+  {
+    "id": "photos-07-untitled",
+    "category": "photos",
+    "title": "Untitled",
+    "dimensions": "16x14",
+    "medium": "digital",
+    "description": "",
+    "order": 7,
+    "source": "photos-fullsize/7.jpg"
+  },
+  {
+    "id": "photos-08-all-ears",
+    "category": "photos",
+    "title": "All Ears",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 8,
+    "source": "photos-fullsize/8.jpg"
+  },
+  {
+    "id": "photos-09-hide-and-seek",
+    "category": "photos",
+    "title": "Hide and Seek",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 9,
+    "source": "photos-fullsize/9.jpg"
+  },
+  {
+    "id": "photos-10-two-toned",
+    "category": "photos",
+    "title": "Two Toned",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 10,
+    "source": "photos-fullsize/10.jpg"
+  },
+  {
+    "id": "photos-11-river-view",
+    "category": "photos",
+    "title": "River View",
+    "dimensions": "10.5x18",
+    "medium": "digital",
+    "description": "",
+    "order": 11,
+    "source": "photos-fullsize/11.jpg"
+  },
+  {
+    "id": "photos-12-blue-ice",
+    "category": "photos",
+    "title": "Blue Ice",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 12,
+    "source": "photos-fullsize/12.jpg"
+  },
+  {
+    "id": "photos-13-beyond",
+    "category": "photos",
+    "title": "Beyond",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 13,
+    "source": "photos-fullsize/13.jpg"
+  },
+  {
+    "id": "photos-14-star-catcher",
+    "category": "photos",
+    "title": "Star Catcher",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 14,
+    "source": "photos-fullsize/14.jpg"
+  },
+  {
+    "id": "photos-15-autunm",
+    "category": "photos",
+    "title": "Autunm",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 15,
+    "source": "photos-fullsize/15.jpg"
+  },
+  {
+    "id": "photos-16-blue-pool",
+    "category": "photos",
+    "title": "Blue Pool",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 16,
+    "source": "photos-fullsize/16.jpg"
+  },
+  {
+    "id": "photos-17-the-seashelf",
+    "category": "photos",
+    "title": "The Seashelf",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 17,
+    "source": "photos-fullsize/17.jpg"
+  },
+  {
+    "id": "photos-18-feathers",
+    "category": "photos",
+    "title": "Feathers",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 18,
+    "source": "photos-fullsize/18.jpg"
+  },
+  {
+    "id": "photos-19-temple-in-the-rain",
+    "category": "photos",
+    "title": "Temple in the Rain",
+    "dimensions": "14x16",
+    "medium": "digital",
+    "description": "",
+    "order": 19,
+    "source": "photos-fullsize/19.jpg"
+  },
+  {
+    "id": "photos-20-window-to-what",
+    "category": "photos",
+    "title": "Window to What",
+    "dimensions": "16x14",
+    "medium": "digital",
+    "description": "",
+    "order": 20,
+    "source": "photos-fullsize/20.jpg"
+  },
+  {
+    "id": "photos-21-pot-of-gold",
+    "category": "photos",
+    "title": "Pot Of Gold",
+    "dimensions": "16x14",
+    "medium": "digital",
+    "description": "",
+    "order": 21,
+    "source": "photos-fullsize/21.jpg"
+  },
+  {
+    "id": "photos-22-magic-morning",
+    "category": "photos",
+    "title": "Magic Morning",
+    "dimensions": "12x16",
+    "medium": "digital",
+    "description": "",
+    "order": 22,
+    "source": "photos-fullsize/22.jpg"
+  },
+  {
+    "id": "photos-23-spring-awakening",
+    "category": "photos",
+    "title": "Spring Awakening",
+    "dimensions": "12x16",
+    "medium": "digital",
+    "description": "",
+    "order": 23,
+    "source": "photos-fullsize/23.jpg"
+  },
+  {
+    "id": "photos-24-noah-s-wall",
+    "category": "photos",
+    "title": "Noah's Wall",
+    "dimensions": "16x16",
+    "medium": "digital",
+    "description": "",
+    "order": 24,
+    "source": "photos-fullsize/24.jpg"
+  },
+  {
+    "id": "photos-25-reflections-in-a-city",
+    "category": "photos",
+    "title": "Reflections in a City",
+    "dimensions": "16x20",
+    "medium": "digital",
+    "description": "",
+    "order": 25,
+    "source": "photos/25.jpg"
+  },
+  {
+    "id": "homepage-0",
+    "category": "homepage",
+    "title": "Homepage background 1",
+    "order": 0,
+    "source": "pics/header/0.jpg"
+  },
+  {
+    "id": "homepage-1",
+    "category": "homepage",
+    "title": "Homepage background 2",
+    "order": 1,
+    "source": "pics/header/1.jpg"
+  },
+  {
+    "id": "homepage-2",
+    "category": "homepage",
+    "title": "Homepage background 3",
+    "order": 2,
+    "source": "pics/header/2.jpg"
+  },
+  {
+    "id": "homepage-3",
+    "category": "homepage",
+    "title": "Homepage background 4",
+    "order": 3,
+    "source": "pics/header/3.jpg"
+  },
+  {
+    "id": "homepage-4",
+    "category": "homepage",
+    "title": "Homepage background 5",
+    "order": 4,
+    "source": "pics/header/4.jpg"
+  },
+  {
+    "id": "homepage-5",
+    "category": "homepage",
+    "title": "Homepage background 6",
+    "order": 5,
+    "source": "pics/header/5.jpg"
+  },
+  {
+    "id": "homepage-6",
+    "category": "homepage",
+    "title": "Homepage background 7",
+    "order": 6,
+    "source": "pics/header/6.jpg"
+  },
+  {
+    "id": "homepage-7",
+    "category": "homepage",
+    "title": "Homepage background 8",
+    "order": 7,
+    "source": "pics/header/7.jpg"
+  },
+  {
+    "id": "homepage-8",
+    "category": "homepage",
+    "title": "Homepage background 9",
+    "order": 8,
+    "source": "pics/header/8.jpg"
+  },
+  {
+    "id": "homepage-9",
+    "category": "homepage",
+    "title": "Homepage background 10",
+    "order": 9,
+    "source": "pics/header/9.jpg"
+  },
+  {
+    "id": "photos-walk-of-art",
+    "category": "photos",
+    "title": "Walk of Art",
+    "medium": "digital",
+    "dimensions": "16x20",
+    "description": "",
+    "order": 26,
+    "source": "originals/photos-walk-of-art-7cc497e2a8c4.jpg"
+  },
+  {
+    "id": "photos-wood-in-the-woods",
+    "category": "photos",
+    "title": "Wood in the Woods",
+    "medium": "digital",
+    "dimensions": "16x20",
+    "description": "",
+    "order": 27,
+    "source": "originals/photos-wood-in-the-woods-0921f2b81f33.jpg"
+  },
+  {
+    "id": "paintings-where-has-all-the-clean-air-gone",
+    "category": "paintings",
+    "title": "Where Has All the Clean Air Gone?",
+    "medium": "acrylic on paper",
+    "dimensions": "30x22 each",
+    "description": "",
+    "order": 31,
+    "source": "originals/paintings-where-has-all-the-clean-air-gone-685a8dc7b661.jpg"
+  },
+  {
+    "id": "paintings-winter-s-approach",
+    "category": "paintings",
+    "title": "Winter's Approach",
+    "medium": "oil on canvas",
+    "dimensions": "48x40",
+    "description": "",
+    "order": 32,
+    "source": "originals/paintings-winter-s-approach-2537225805cc.jpg"
+  }
+]

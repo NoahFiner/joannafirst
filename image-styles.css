@@ -1,0 +1,128 @@
+/* Image delivery changes; retain the portfolio's existing layout and visual design. */
+body { background-image: none; }
+#carousel-front, #carousel-back { background-image: none; transition: none; }
+#carousel-front { transition-delay: 0s; }
+.gallery-artwork { width: 100%; height: 100%; object-fit: contain; display: block; animation: artwork-in 160ms ease-out; }
+@keyframes artwork-in { from { opacity: .6; } to { opacity: 1; } }
+body[data-gallery="paintings"] #carousel-back,
+body[data-gallery="pastels"] #carousel-back { display: none; }
+.carousel-preview { position: relative; padding: 0; background: none; vertical-align: top; }
+.carousel-preview > img { width: 100%; height: 100%; object-fit: contain; }
+.carousel-preview .preview-overlay { position: absolute; inset: 0; }
+.carousel-preview .preview-overlay p { font-size: 16px; }
+.carousel-preview:focus-visible { outline: 3px solid #a5cd79; outline-offset: 2px; }
+#left-arr, #right-arr { padding: 0; border: 0; background: transparent; }
+#left-arr img, #right-arr img { width: 100%; height: 100%; }
+#left-arr:focus-visible, #right-arr:focus-visible { outline: 3px solid #689537; }
+.image-status { position: absolute; top: 12px; right: 16px; z-index: 5; background: #ffffffdd; color: #222; border-radius: 4px; }
+.image-status:has(span:not(:empty)) { padding: 8px; }
+.image-status button { font: inherit; }
+#carousel-info.hidden { margin-top: 0; }
+#carousel-outer, #carousel-outer.hidden { position: relative; z-index: auto; }
+#carousel-back, #carousel-black, #carousel-front { inset: 0; height: 100%; }
+#carousel-back.hidden, #carousel-black.hidden, #carousel-front.hidden, #carousel-buttons.hidden { height: 100%; }
+#intro-header-outer { position: relative; isolation: isolate; transition: none; }
+.hero-image { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; pointer-events: none; z-index: 1; }
+#intro-header-gray, #intro-header-content { z-index: 2; }
+#intro-header-gray { pointer-events: none; }
+.hero-enter { animation: hero-in 200ms ease-out; }
+@keyframes hero-in { from { opacity: 0; } to { opacity: 1; } }
+.slideshow-toggle { position: absolute; right: 12px; bottom: 12px; z-index: 3; background: #0009; color: white; border: 1px solid #ffffff99; border-radius: 20px; padding: 6px 12px; cursor: pointer; }
+@media (prefers-reduced-motion: reduce) {
+  .gallery-artwork, .hero-enter { animation: none; }
+  #carousel-outer, #carousel-front, #carousel-info, #carousel-info-top, #carousel-info-bottom { transition: none; }
+}
+
+/* Homepage layout retains the original logo, colors and two rows of links. */
+.homepage-page #intro-header-outer.homepage { min-height: 620px; height: 100svh; }
+.homepage-page #intro-header-gray.homepage,
+.homepage-page #intro-header-content.homepage { height: 100%; }
+.homepage-page #intro-logo.homepage {
+  height: auto !important;
+  width: min(58vh, 80vw);
+  max-height: 34%;
+  object-fit: contain;
+  margin-top: 0 !important;
+  top: 25%;
+}
+.homepage-page #intro-header-buttons-outer.homepage {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 50px 16px;
+  top: 70%;
+  margin-top: 0 !important;
+  height: auto;
+  width: 100%;
+}
+.homepage-page .intro-button {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: min(100%, 180px);
+  min-height: 44px;
+  height: auto;
+  padding: 6px;
+  color: white;
+  font-size: 25px;
+  font-weight: 100;
+  line-height: 1.2;
+  text-align: center;
+  opacity: 1;
+}
+.homepage-page .intro-button:first-child { font-size: 20px; }
+.homepage-page .tone-light:hover { background: #86bd4c; color: black; }
+.homepage-page .tone-medium:hover { background: #689537; color: black; }
+.homepage-page .tone-dark:hover { background: #486827; }
+.homepage-page .intro-button:focus-visible,
+.slideshow-toggle:focus-visible { outline: 3px solid white; outline-offset: 4px; }
+@media (max-width: 600px) {
+  .homepage-page #intro-logo.homepage { width: 82%; top: 18%; }
+  .homepage-page #intro-header-buttons-outer.homepage {
+    top: 55%;
+    left: 5%;
+    width: 90%;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px 12px;
+  }
+  .homepage-page .intro-button,
+  .homepage-page .intro-button:first-child { font-size: 18px; }
+}
+@media (max-height: 600px) and (min-width: 601px) {
+  .homepage-page #intro-header-outer.homepage { min-height: 380px; }
+  .homepage-page #intro-logo.homepage { top: 8%; }
+  .homepage-page #intro-header-buttons-outer.homepage { top: 52%; gap: 18px; }
+}
+
+/* Let long artwork titles wrap without overlapping the medium or dimensions. */
+#carousel-info { display: flex; flex-direction: column; }
+#carousel-info-top, #carousel-info-top.hidden {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto auto;
+  align-items: center;
+  gap: 8px 24px;
+  padding: 6px 1vw;
+  box-sizing: border-box;
+  height: auto;
+  min-height: 6vh;
+  flex-shrink: 0;
+}
+#carousel-info-top > p, #carousel-info-top #direct-arr {
+  position: static;
+  line-height: 1.2;
+  margin: 0;
+}
+#carousel-info-top .divider { display: none; }
+#car-title { overflow-wrap: anywhere; }
+#car-medium { order: 2; }
+#car-dimensions { order: 3; }
+#more { order: 4; }
+#carousel-info-bottom { flex: 1; min-height: 0; height: auto; }
+#carousel-info-bottom.hidden { display: none; }
+@media (max-width: 700px) {
+  #carousel-info-top { grid-template-columns: minmax(0, 1fr) auto; gap: 6px 12px; }
+  #car-title { grid-column: 1; }
+  #more { grid-column: 2; grid-row: 1; }
+  #car-medium { grid-column: 1; }
+  #car-dimensions { grid-column: 2; }
+}

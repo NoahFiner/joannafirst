@@ -8,13 +8,13 @@ var toggleUnder = function(){
     setTimeout(function() {$("#direct-arr").addClass("down")}, 500);
     $("#more").html("<span id='direct-arr' class=''>&#8682;</span> &nbsp;&nbsp;&nbsp;");
     underHidden = false;
-    $("#carousel-info, #carousel-info-bottom, #carousel-info-top, #carousel-back, #carousel-black, #carousel-front, #carousel-buttons").removeClass("hidden");
+    $("#carousel-outer, #carousel-info, #carousel-info-bottom, #carousel-info-top, #carousel-back, #carousel-black, #carousel-front, #carousel-buttons").removeClass("hidden");
   }
   else {
     setTimeout(function() {$("#direct-arr").removeClass("down")}, 500);
     $("#more").html("<span id='direct-arr' class='down'>&#8682;</span> &nbsp;&nbsp;&nbsp;");
     underHidden = true;
-    $("#carousel-info, #carousel-info-bottom, #carousel-info-top, #carousel-back, #carousel-black, #carousel-front, #carousel-buttons").addClass("hidden");
+    $("#carousel-outer, #carousel-info, #carousel-info-bottom, #carousel-info-top, #carousel-back, #carousel-black, #carousel-front, #carousel-buttons").addClass("hidden");
   }
 }
 

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "paintings-00-breakthrough-1-and-2",
+    "legacySource": "paintings/0.png",
+    "source": "paintings-fullsize/0.png",
+    "decision": "Matched larger source (normalized pixel difference 0.43/255)."
+  },
+  {
+    "id": "paintings-01-under-the-sun",
+    "legacySource": "paintings/1.png",
+    "source": "paintings-fullsize/1.png",
+    "decision": "Matched larger source (normalized pixel difference 0.40/255)."
+  },
+  {
+    "id": "paintings-02-deep-within",
+    "legacySource": "paintings/3.png",
+    "source": "paintings-fullsize/3.png",
+    "decision": "Matched larger source (normalized pixel difference 0.55/255)."
+  },
+  {
+    "id": "paintings-03-dividing-line",
+    "legacySource": "paintings/4.png",
+    "source": "paintings-fullsize/4.png",
+    "decision": "Matched larger source (normalized pixel difference 0.28/255)."
+  },
+  {
+    "id": "paintings-04-line-1-2-3-4",
+    "legacySource": "paintings/5.png",
+    "source": "paintings-fullsize/5.png",
+    "decision": "Matched larger source (normalized pixel difference 0.39/255)."
+  },
+  {
+    "id": "paintings-05-night-waters",
+    "legacySource": "paintings/6.png",
+    "source": "paintings-fullsize/6.png",
+    "decision": "Matched larger source (normalized pixel difference 0.45/255)."
+  },
+  {
+    "id": "paintings-06-chartreuse-wall",
+    "legacySource": "paintings/7.png",
+    "source": "paintings-fullsize/7.png",
+    "decision": "Matched larger source (normalized pixel difference 0.63/255)."
+  },
+  {
+    "id": "paintings-07-beyond-the-grass",
+    "legacySource": "paintings/8.png",
+    "source": "paintings-fullsize/8.png",
+    "decision": "Matched larger source (normalized pixel difference 0.42/255)."
+  },
+  {
+    "id": "paintings-08-night-sails",
+    "legacySource": "paintings/9.png",
+    "source": "paintings-fullsize/9.png",
+    "decision": "Matched larger source (normalized pixel difference 0.65/255)."
+  },
+  {
+    "id": "paintings-09-winter-garden",
+    "legacySource": "paintings/10.png",
+    "source": "paintings-fullsize/10.png",
+    "decision": "Matched larger source (normalized pixel difference 0.57/255)."
+  },
+  {
+    "id": "paintings-10-unsuspecting",
+    "legacySource": "paintings/11.png",
+    "source": "paintings-fullsize/11.png",
+    "decision": "Matched larger source (normalized pixel difference 0.41/255)."
+  },
+  {
+    "id": "paintings-11-variation-of-a-vase",
+    "legacySource": "paintings/12.png",
+    "source": "paintings-fullsize/12.png",
+    "decision": "Matched larger source (normalized pixel difference 0.55/255)."
+  },
+  {
+    "id": "paintings-12-city-forest",
+    "legacySource": "paintings/13.png",
+    "source": "paintings-fullsize/13.png",
+    "decision": "Matched larger source (normalized pixel difference 0.37/255)."
+  },
+  {
+    "id": "paintings-13-towards-the-garden",
+    "legacySource": "paintings/14.png",
+    "source": "paintings/14.png",
+    "decision": "Different image/crop/color: retained displayed source; visually reviewed exceptions."
+  },
+  {
+    "id": "paintings-14-deep-water",
+    "legacySource": "paintings/15.png",
+    "source": "paintings-fullsize/15.png",
+    "decision": "Matched larger source (normalized pixel difference 0.56/255)."
+  },
+  {
+    "id": "paintings-15-past-present-future",
+    "legacySource": "paintings/16.png",
+    "source": "paintings-fullsize/16.png",
+    "decision": "Matched larger source (normalized pixel difference 0.36/255)."
+  },
+  {
+    "id": "paintings-16-veiled-women-series-4",
+    "legacySource": "paintings/17.png",
+    "source": "paintings-fullsize/17.png",
+    "decision": "Matched larger source (normalized pixel difference 0.23/255)."
+  },
+  {
+    "id": "paintings-17-golden-summers",
+    "legacySource": "paintings/18.png",
+    "source": "paintings-fullsize/18.png",
+    "decision": "Matched larger source (normalized pixel difference 0.40/255)."
+  },
+  {
+    "id": "paintings-18-early-light",
+    "legacySource": "paintings/19.png",
+    "source": "paintings-fullsize/19.png",
+    "decision": "Matched larger source (normalized pixel difference 0.34/255)."
+  },
+  {
+    "id": "paintings-19-small-1-2-3",
+    "legacySource": "paintings/20.png",
+    "source": "paintings-fullsize/20.png",
+    "decision": "Matched larger source (normalized pixel difference 0.12/255)."
+  },
+  {
+    "id": "paintings-20-a-patch-of-blue",
+    "legacySource": "paintings/21.png",
+    "source": "paintings/21.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "paintings-21-the-stone-fountain",
+    "legacySource": "paintings/22.png",
+    "source": "paintings/22.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "paintings-22-moving-on",
+    "legacySource": "paintings/23.png",
+    "source": "paintings/23.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "paintings-23-coming-close-1-4",
+    "legacySource": "paintings/comingclosertransparent.png",
+    "source": "paintings/comingclosertransparent.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "paintings-24-passage",
+    "legacySource": "paintings/25.png",
+    "source": "paintings/25.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "paintings-25-pure-pleasure",
+    "legacySource": "paintings/26.png",
+    "source": "paintings/26.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "paintings-26-coming-apart",
+    "legacySource": "paintings/ComingApart.jpg",
+    "source": "paintings/ComingApart.jpg",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "paintings-27-out-of-the-blue",
+    "legacySource": "paintings/outoftheblue.jpg",
+    "source": "paintings/outoftheblue.jpg",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "paintings-28-picking-up-the-pieces",
+    "legacySource": "paintings/pickingupthesepieces.jpg",
+    "source": "paintings/pickingupthesepieces.jpg",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "paintings-29-unhinged",
+    "legacySource": "paintings/unhinged.png",
+    "source": "paintings/unhinged.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "paintings-30-the-most-happy-place",
+    "legacySource": "paintings/themosthappyplace.jpg",
+    "source": "paintings/themosthappyplace.jpg",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "pastels-00-the-market",
+    "legacySource": "pastels/0.png",
+    "source": "pastels/0.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "pastels-01-jerusalem-night",
+    "legacySource": "pastels/1.png",
+    "source": "pastels/1.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "pastels-02-coming-together",
+    "legacySource": "pastels/2.png",
+    "source": "pastels/2.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "pastels-03-archways",
+    "legacySource": "pastels/3.png",
+    "source": "pastels/3.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "pastels-04-untitled",
+    "legacySource": "pastels/4.png",
+    "source": "pastels/4.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "pastels-05-blue-morning",
+    "legacySource": "pastels/5.png",
+    "source": "pastels/5.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "pastels-06-untitled",
+    "legacySource": "pastels/6.png",
+    "source": "pastels/6.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "pastels-07-red-walls",
+    "legacySource": "pastels/7.png",
+    "source": "pastels/7.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "pastels-08-april-s-approach",
+    "legacySource": "pastels/8.png",
+    "source": "pastels/8.png",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "photos-00-tomato-ribbons",
+    "legacySource": "photos/0.jpg",
+    "source": "photos/0.jpg",
+    "decision": "Retained displayed source."
+  },
+  {
+    "id": "photos-01-amsterdam-night",
+    "legacySource": "photos/1.jpg",
+    "source": "photos-fullsize/1.jpg",
+    "decision": "Matched larger source (normalized pixel difference 6.10/255)."
+  },
+  {
+    "id": "photos-02-sandy-s-arrival",
+    "legacySource": "photos/2.jpg",
+    "source": "photos-fullsize/2.jpg",
+    "decision": "Matched larger source (normalized pixel difference 2.10/255)."
+  },
+  {
+    "id": "photos-03-waiting-for-bee",
+    "legacySource": "photos/3.jpg",
+    "source": "photos-fullsize/3.jpg",
+    "decision": "Matched larger source (normalized pixel difference 3.71/255)."
+  },
+  {
+    "id": "photos-04-ominous",
+    "legacySource": "photos/4.jpg",
+    "source": "photos-fullsize/4.jpg",
+    "decision": "Matched larger source (normalized pixel difference 2.45/255)."
+  },
+  {
+    "id": "photos-05-pushing-through",
+    "legacySource": "photos/5.jpg",
+    "source": "photos-fullsize/5.jpg",
+    "decision": "Matched larger source (normalized pixel difference 1.35/255)."
+  },
+  {
+    "id": "photos-06-watching-his-world",
+    "legacySource": "photos/6.jpg",
+    "source": "photos/6.jpg",
+    "decision": "Different image/crop/color: retained displayed source; visually reviewed exceptions."
+  },
+  {
+    "id": "photos-07-untitled",
+    "legacySource": "photos/7.jpg",
+    "source": "photos-fullsize/7.jpg",
+    "decision": "Matched larger source (normalized pixel difference 1.39/255)."
+  },
+  {
+    "id": "photos-08-all-ears",
+    "legacySource": "photos/8.jpg",
+    "source": "photos-fullsize/8.jpg",
+    "decision": "Matched larger source (normalized pixel difference 8.31/255)."
+  },
+  {
+    "id": "photos-09-hide-and-seek",
+    "legacySource": "photos/9.jpg",
+    "source": "photos-fullsize/9.jpg",
+    "decision": "Matched larger source (normalized pixel difference 3.72/255)."
+  },
+  {
+    "id": "photos-10-two-toned",
+    "legacySource": "photos/10.jpg",
+    "source": "photos-fullsize/10.jpg",
+    "decision": "Matched larger source (normalized pixel difference 2.52/255)."
+  },
+  {
+    "id": "photos-11-river-view",
+    "legacySource": "photos/11.jpg",
+    "source": "photos-fullsize/11.jpg",
+    "decision": "Matched larger source (normalized pixel difference 2.23/255)."
+  },
+  {
+    "id": "photos-12-blue-ice",
+    "legacySource": "photos/12.jpg",
+    "source": "photos-fullsize/12.jpg",
+    "decision": "Matched larger source (normalized pixel difference 0.75/255)."
+  },
+  {
+    "id": "photos-13-beyond",
+    "legacySource": "photos/13.jpg",
+    "source": "photos-fullsize/13.jpg",
+    "decision": "Matched larger source (normalized pixel difference 0.58/255)."
+  },
+  {
+    "id": "photos-14-star-catcher",
+    "legacySource": "photos/14.jpg",
+    "source": "photos-fullsize/14.jpg",
+    "decision": "Matched larger source (normalized pixel difference 2.00/255)."
+  },
+  {
+    "id": "photos-15-autunm",
+    "legacySource": "photos/15.jpg",
+    "source": "photos-fullsize/15.jpg",
+    "decision": "Matched larger source (normalized pixel difference 1.62/255)."
+  },
+  {
+    "id": "photos-16-blue-pool",
+    "legacySource": "photos/16.jpg",
+    "source": "photos-fullsize/16.jpg",
+    "decision": "Matched larger source (normalized pixel difference 3.52/255)."
+  },
+  {
+    "id": "photos-17-the-seashelf",
+    "legacySource": "photos/17.jpg",
+    "source": "photos-fullsize/17.jpg",
+    "decision": "Matched larger source (normalized pixel difference 1.53/255)."
+  },
+  {
+    "id": "photos-18-feathers",
+    "legacySource": "photos/18.jpg",
+    "source": "photos-fullsize/18.jpg",
+    "decision": "Matched larger source (normalized pixel difference 5.29/255)."
+  },
+  {
+    "id": "photos-19-temple-in-the-rain",
+    "legacySource": "photos/19.jpg",
+    "source": "photos-fullsize/19.jpg",
+    "decision": "Matched larger source (normalized pixel difference 4.71/255)."
+  },
+  {
+    "id": "photos-20-window-to-what",
+    "legacySource": "photos/20.jpg",
+    "source": "photos-fullsize/20.jpg",
+    "decision": "Matched larger source (normalized pixel difference 2.90/255)."
+  },
+  {
+    "id": "photos-21-pot-of-gold",
+    "legacySource": "photos/21.jpg",
+    "source": "photos-fullsize/21.jpg",
+    "decision": "Matched larger source (normalized pixel difference 2.86/255)."
+  },
+  {
+    "id": "photos-22-magic-morning",
+    "legacySource": "photos/22.jpg",
+    "source": "photos-fullsize/22.jpg",
+    "decision": "Matched larger source (normalized pixel difference 2.56/255)."
+  },
+  {
+    "id": "photos-23-spring-awakening",
+    "legacySource": "photos/23.jpg",
+    "source": "photos-fullsize/23.jpg",
+    "decision": "Matched larger source (normalized pixel difference 2.91/255)."
+  },
+  {
+    "id": "photos-24-noah-s-wall",
+    "legacySource": "photos/24.jpg",
+    "source": "photos-fullsize/24.jpg",
+    "decision": "Matched larger source (normalized pixel difference 5.27/255)."
+  },
+  {
+    "id": "photos-25-reflections-in-a-city",
+    "legacySource": "photos/25.jpg",
+    "source": "photos/25.jpg",
+    "decision": "Different image/crop/color: retained displayed source; visually reviewed exceptions."
+  }
+]

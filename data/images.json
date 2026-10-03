@@ -1,0 +1,2593 @@
+{
+  "schemaVersion": 1,
+  "images": [
+    {
+      "id": "paintings-00-breakthrough-1-and-2",
+      "category": "paintings",
+      "title": "Breakthrough 1 and 2",
+      "dimensions": "each 18x14",
+      "medium": "acrylic on canvas",
+      "description": "",
+      "order": 0,
+      "source": "paintings-fullsize/0.png",
+      "sourceHash": "5b54f90864bac957ff35fcef9a8605c1aafdf5a6854d881251a7169417024e3d",
+      "fingerprint": "a8bf349fa8f4f669e374794f38f47d4bc461e7f154415a77d345cafbb0adab01",
+      "thumbnail": {
+        "src": "images/generated/paintings-00-breakthrough-1-and-2/a8bf349fa8f4f669/thumbnail.webp",
+        "width": 300,
+        "height": 185,
+        "bytes": 8268,
+        "sha256": "16c4ca051ab8777640b4a7f09e0337802a2c8688d5c391a4608569576176d4ae"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-00-breakthrough-1-and-2/a8bf349fa8f4f669/display-800.webp",
+          "width": 800,
+          "height": 494,
+          "bytes": 32498,
+          "sha256": "7019cb6f7670f9d8638882825f1c6412565a26af2a9a3323d54cbc8136a89213"
+        },
+        {
+          "src": "images/generated/paintings-00-breakthrough-1-and-2/a8bf349fa8f4f669/display-1134.webp",
+          "width": 1134,
+          "height": 700,
+          "bytes": 45820,
+          "sha256": "948aafc1eb593fe5059c6f375c1f9194c88967142d5b39562e5206d0bfaca5c5"
+        }
+      ]
+    },
+    {
+      "id": "paintings-01-under-the-sun",
+      "category": "paintings",
+      "title": "Under the Sun",
+      "dimensions": "44x30",
+      "medium": "acrylic on canvas/rice paper",
+      "description": "",
+      "order": 1,
+      "source": "paintings-fullsize/1.png",
+      "sourceHash": "7b87dfb1faa6947e63442090af35035ee997b9f23717bb8e12707b82c8f4ac41",
+      "fingerprint": "34f20a27555a603591ae41dbd45874bc7f513db1f68a1b3349f52e2914cb52d7",
+      "thumbnail": {
+        "src": "images/generated/paintings-01-under-the-sun/34f20a27555a6035/thumbnail.webp",
+        "width": 204,
+        "height": 300,
+        "bytes": 11722,
+        "sha256": "a08dbe3fb926ef5aa76863676d4639b092a9fef61a3d018f7a6dac6cb3d7c78d"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-01-under-the-sun/34f20a27555a6035/display-700.webp",
+          "width": 477,
+          "height": 700,
+          "bytes": 54584,
+          "sha256": "357af3ae48b548b86a48be0ef61fa93db2c0eb5679e420acba51485fb6126cb5"
+        }
+      ]
+    },
+    {
+      "id": "paintings-02-deep-within",
+      "category": "paintings",
+      "title": "Deep Within",
+      "dimensions": "48x18",
+      "medium": "acrylic/rice paper on canvas",
+      "description": "",
+      "order": 2,
+      "source": "paintings-fullsize/3.png",
+      "sourceHash": "1d005ca5dddb3555c86dc10b89a857b122320be0a88f5f9fbbd75db5c04bc511",
+      "fingerprint": "b0aff06810dbcf1b5239df1e366c264062fabd73e92ff811b7359f7e37093a55",
+      "thumbnail": {
+        "src": "images/generated/paintings-02-deep-within/b0aff06810dbcf1b/thumbnail.webp",
+        "width": 142,
+        "height": 300,
+        "bytes": 8448,
+        "sha256": "838af1657209b1b6b2c36f99af0d89d95455ff83aaa50300eb35971eadd83c16"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-02-deep-within/b0aff06810dbcf1b/display-700.webp",
+          "width": 332,
+          "height": 700,
+          "bytes": 35508,
+          "sha256": "218fd3d3c49306a64699f494780b899b58ac1551bf23d89b5f0e3c7de187831e"
+        }
+      ]
+    },
+    {
+      "id": "paintings-03-dividing-line",
+      "category": "paintings",
+      "title": "Dividing Line",
+      "dimensions": "52x18",
+      "medium": "acrylic/rice paper on canvas",
+      "description": "",
+      "order": 3,
+      "source": "paintings-fullsize/4.png",
+      "sourceHash": "0d456433d46453a8c87f62cf9971a384d5a4a7187dc0933eef57de9ac932bc21",
+      "fingerprint": "38bc062ccf5d69029639f4687c421f03f4e51db1be766dd2d5ddfa14b76e031f",
+      "thumbnail": {
+        "src": "images/generated/paintings-03-dividing-line/38bc062ccf5d6902/thumbnail.webp",
+        "width": 108,
+        "height": 300,
+        "bytes": 5262,
+        "sha256": "7126ec74dde40978352a9689f10fd22749859ce24db2e1584ec9cb5a7e20468e"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-03-dividing-line/38bc062ccf5d6902/display-700.webp",
+          "width": 252,
+          "height": 700,
+          "bytes": 21610,
+          "sha256": "1179c28a744cd7ea6f7908ea0e2404def781c7ff60da549777ca53f45b0212ad"
+        }
+      ]
+    },
+    {
+      "id": "paintings-04-line-1-2-3-4",
+      "category": "paintings",
+      "title": "Line #1, #2, #3, #4",
+      "dimensions": "30x22 each",
+      "medium": "acrylic on canvas/rice paper",
+      "description": "",
+      "order": 4,
+      "source": "paintings-fullsize/5.png",
+      "sourceHash": "22443059d229ca9e0bd50ab210fafde03537eb0603ec9140fbc1fb33d416642e",
+      "fingerprint": "630c572c036a4d7a959d58e95140b174a7cb80a67f3b05214340cb09f7d276ed",
+      "thumbnail": {
+        "src": "images/generated/paintings-04-line-1-2-3-4/630c572c036a4d7a/thumbnail.webp",
+        "width": 222,
+        "height": 300,
+        "bytes": 15488,
+        "sha256": "ab2bf1c41fa1b0bd3444d3e3bf5ffc53a90e871522a2e68e25a11dae910b8ca5"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-04-line-1-2-3-4/630c572c036a4d7a/display-700.webp",
+          "width": 517,
+          "height": 700,
+          "bytes": 57756,
+          "sha256": "153a826f7b950ae1a3bb86c3a9e35e9998f99ffa24dc0d8f1918ec1b3c433650"
+        }
+      ]
+    },
+    {
+      "id": "paintings-05-night-waters",
+      "category": "paintings",
+      "title": "Night Waters",
+      "dimensions": "54x32",
+      "medium": "acrylic on canvas",
+      "description": "",
+      "order": 5,
+      "source": "paintings-fullsize/6.png",
+      "sourceHash": "c21957a22a360aafcb7ded4a88bc3a038692a595e508b0e26436e4d69e2c6b5f",
+      "fingerprint": "295a853cf46f0634801ce83cd7a03e2417f18b73147b5b153ccbe37724ea28c3",
+      "thumbnail": {
+        "src": "images/generated/paintings-05-night-waters/295a853cf46f0634/thumbnail.webp",
+        "width": 180,
+        "height": 300,
+        "bytes": 9262,
+        "sha256": "2d28e39ae8fb38fab8d956b22c18fa35a81d191e85e719b80b3cb42d02369cc4"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-05-night-waters/295a853cf46f0634/display-700.webp",
+          "width": 420,
+          "height": 700,
+          "bytes": 40426,
+          "sha256": "9250696b9c7ec8dfb8d1615f088f4cf0bffb3c5336af8a6674509f79b8f62876"
+        }
+      ]
+    },
+    {
+      "id": "paintings-06-chartreuse-wall",
+      "category": "paintings",
+      "title": "Chartreuse Wall",
+      "dimensions": "54x32",
+      "medium": "acrylic/rice paper on canvas",
+      "description": "",
+      "order": 6,
+      "source": "paintings-fullsize/7.png",
+      "sourceHash": "d6f4459e2eed04ab92bcb209c80c1accda6ae0fe6c60359f04be82781a6b187b",
+      "fingerprint": "834268b2101b8817f7fef8fed45abe3ca6321b24e376be975c10f87f91ac6ca0",
+      "thumbnail": {
+        "src": "images/generated/paintings-06-chartreuse-wall/834268b2101b8817/thumbnail.webp",
+        "width": 178,
+        "height": 300,
+        "bytes": 13244,
+        "sha256": "d4917b0d0374aaede82c244c9c36f606e1e353da36a796263a2316c9d15442ce"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-06-chartreuse-wall/834268b2101b8817/display-700.webp",
+          "width": 416,
+          "height": 700,
+          "bytes": 57744,
+          "sha256": "60a04f168cd04845093ffec26567302ddf9b35697873b21515e2b33b636cf035"
+        }
+      ]
+    },
+    {
+      "id": "paintings-07-beyond-the-grass",
+      "category": "paintings",
+      "title": "Beyond the Grass",
+      "dimensions": "60x50",
+      "medium": "acrylic/mixed media",
+      "description": "",
+      "order": 7,
+      "source": "paintings-fullsize/8.png",
+      "sourceHash": "0bf346d60389d07ec652637e1f9fbcaa88dc795b13e469d40f7052477045c2fd",
+      "fingerprint": "faa2235cd9d5cc46a6c6488de300f816cb7812fcb2136236c2418e1a750908f9",
+      "thumbnail": {
+        "src": "images/generated/paintings-07-beyond-the-grass/faa2235cd9d5cc46/thumbnail.webp",
+        "width": 253,
+        "height": 300,
+        "bytes": 15634,
+        "sha256": "5ad63c31b8695d0a0f436e217c267c64dccb8146296ef6e99b0b52bcde1bd0c7"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-07-beyond-the-grass/faa2235cd9d5cc46/display-700.webp",
+          "width": 591,
+          "height": 700,
+          "bytes": 59094,
+          "sha256": "11142095be25e3c2fa477e45fa5439b6c792461a819f9344633c520447c6be0e"
+        }
+      ]
+    },
+    {
+      "id": "paintings-08-night-sails",
+      "category": "paintings",
+      "title": "Night Sails",
+      "dimensions": "60x46",
+      "medium": "acrylic/mixed media",
+      "description": "",
+      "order": 8,
+      "source": "paintings-fullsize/9.png",
+      "sourceHash": "2416c9ed5b2960cd49742895c736f79cc569a866a7f0fe1ae771d97388ded9f5",
+      "fingerprint": "4c04287173032ed9907c4a2f1936b5c390232ec1f0d6f7861913fe39a827c348",
+      "thumbnail": {
+        "src": "images/generated/paintings-08-night-sails/4c04287173032ed9/thumbnail.webp",
+        "width": 235,
+        "height": 300,
+        "bytes": 14622,
+        "sha256": "33209baa805d8d2c485a1bc70c4070b69b8d094d2b3f5e9f9b7b8384c393f26d"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-08-night-sails/4c04287173032ed9/display-700.webp",
+          "width": 549,
+          "height": 700,
+          "bytes": 64000,
+          "sha256": "5f2bd7584f1fe56e9e316bc3823258beafa3ee738fb6322e4b0af88db2e42c53"
+        }
+      ]
+    },
+    {
+      "id": "paintings-09-winter-garden",
+      "category": "paintings",
+      "title": "Winter Garden",
+      "dimensions": "42x76",
+      "medium": "acrylic/mixed media",
+      "description": "",
+      "order": 9,
+      "source": "paintings-fullsize/10.png",
+      "sourceHash": "bc2c97f36b4da063fab0e2709b52ea9da603db29bfc29aa2c1c9df7f7ad77222",
+      "fingerprint": "844076df058b516e5ce2800efaceb9851e0e4c0105fbc1378ed7173bfa5344c4",
+      "thumbnail": {
+        "src": "images/generated/paintings-09-winter-garden/844076df058b516e/thumbnail.webp",
+        "width": 300,
+        "height": 200,
+        "bytes": 13250,
+        "sha256": "c61200ac4bf84c0dabebfb6b508ad4af6e3934c00e206a4d253f3a91e41282b4"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-09-winter-garden/844076df058b516e/display-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 61462,
+          "sha256": "d872829f30bd7a03af955d2cafa31c505f5b1e2fea660dbee20d465e5d0c6543"
+        },
+        {
+          "src": "images/generated/paintings-09-winter-garden/844076df058b516e/display-1051.webp",
+          "width": 1051,
+          "height": 700,
+          "bytes": 84804,
+          "sha256": "4d005d490a259d52e2c89d81aa27511a5686e1a3bd1f8fcf31f44a6b6dc0e452"
+        }
+      ]
+    },
+    {
+      "id": "paintings-10-unsuspecting",
+      "category": "paintings",
+      "title": "Unsuspecting",
+      "dimensions": "50x40",
+      "medium": "acrylic/mixed media",
+      "description": "",
+      "order": 10,
+      "source": "paintings-fullsize/11.png",
+      "sourceHash": "3e19a478c8626bf65b469ef9627cd6f1bca23eea0a5600022e85d8bbe99e34e9",
+      "fingerprint": "20834788c0e1df2e7197d13d3c7579ad02106a36e2ce391374583fabb4089078",
+      "thumbnail": {
+        "src": "images/generated/paintings-10-unsuspecting/20834788c0e1df2e/thumbnail.webp",
+        "width": 252,
+        "height": 300,
+        "bytes": 12922,
+        "sha256": "9ab7b38195855991d2a1e8eac5963543d13b69bf2644d9a4e448607faec65da2"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-10-unsuspecting/20834788c0e1df2e/display-700.webp",
+          "width": 588,
+          "height": 700,
+          "bytes": 56644,
+          "sha256": "c942fdc83832218970291c3de07ee85a08e21c27914cbe28674b4691a108f805"
+        }
+      ]
+    },
+    {
+      "id": "paintings-11-variation-of-a-vase",
+      "category": "paintings",
+      "title": "Variation of a Vase",
+      "dimensions": "60x50",
+      "medium": "acrylic/mixed media",
+      "description": "",
+      "order": 11,
+      "source": "paintings-fullsize/12.png",
+      "sourceHash": "3f5a4f4be362d1d57faa042cddc2911134b5ec33803133ce6ab4f3c6f2983b98",
+      "fingerprint": "6e08da134bae6df6e0cd1ddb3d1b53a2a326a83149da82da6235a35614229ebb",
+      "thumbnail": {
+        "src": "images/generated/paintings-11-variation-of-a-vase/6e08da134bae6df6/thumbnail.webp",
+        "width": 241,
+        "height": 300,
+        "bytes": 15144,
+        "sha256": "d2d080a5b5a038bd2339091b689146151bde87e4d15fea7fc2f6c034b75cc103"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-11-variation-of-a-vase/6e08da134bae6df6/display-700.webp",
+          "width": 562,
+          "height": 700,
+          "bytes": 66972,
+          "sha256": "c29244d9065266ae427bef7c6f1be6adfbb20a74355e7d0159cdc220c70ea618"
+        }
+      ]
+    },
+    {
+      "id": "paintings-12-city-forest",
+      "category": "paintings",
+      "title": "City Forest",
+      "dimensions": "50x20",
+      "medium": "acrylic on canvas",
+      "description": "",
+      "order": 12,
+      "source": "paintings-fullsize/13.png",
+      "sourceHash": "57690f21c53d3970b2be52f4d13be35fdfc57c7910b058329497b4902050bfbc",
+      "fingerprint": "7e9ddffa9348c1af4680fa6a1922c3d652fbc1102720272c4aae20e733ca8c09",
+      "thumbnail": {
+        "src": "images/generated/paintings-12-city-forest/7e9ddffa9348c1af/thumbnail.webp",
+        "width": 117,
+        "height": 300,
+        "bytes": 5756,
+        "sha256": "2b52e6f0ae159bcc8fb470c2ae328bd1c8d6d297d40c29f9d3fc29d2b6712b07"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-12-city-forest/7e9ddffa9348c1af/display-700.webp",
+          "width": 274,
+          "height": 700,
+          "bytes": 31280,
+          "sha256": "acdf2efdbcf4241987212ee005811e2edf94f1c22e3010924b3432fba525a0df"
+        }
+      ]
+    },
+    {
+      "id": "paintings-13-towards-the-garden",
+      "category": "paintings",
+      "title": "Towards the Garden",
+      "dimensions": "54x18",
+      "medium": "acrylic/mixed media",
+      "description": "",
+      "order": 13,
+      "source": "paintings/14.png",
+      "sourceHash": "feedcb58c1fcb86ee746b566488716511d0a9fdf91555f46931547ac6275f2cb",
+      "fingerprint": "55ee4f793455d3bbce4553d60449d78222cd09a1048cab8468a5c4c035cd718f",
+      "thumbnail": {
+        "src": "images/generated/paintings-13-towards-the-garden/55ee4f793455d3bb/thumbnail.webp",
+        "width": 99,
+        "height": 300,
+        "bytes": 6026,
+        "sha256": "c3ba396360f3dd6928827cacbb9b912d669817b94442378c6e2f9ae0b9d23a4d"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-13-towards-the-garden/55ee4f793455d3bb/display-700.webp",
+          "width": 230,
+          "height": 700,
+          "bytes": 34196,
+          "sha256": "f127a9332a45dc8c8a98ecc81b81c2a19399588034f89cc775d27ba58f4e1576"
+        }
+      ]
+    },
+    {
+      "id": "paintings-14-deep-water",
+      "category": "paintings",
+      "title": "Deep Water",
+      "dimensions": "48x28",
+      "medium": "acrylic/mixed media on canvas",
+      "description": "",
+      "order": 14,
+      "source": "paintings-fullsize/15.png",
+      "sourceHash": "e09af0abf8d01419e4ebc81adc60f3b7a39167236809a7f71f8386aac4a01601",
+      "fingerprint": "9f56a328e811336c4dcd7bde572a49c07ecf02cbf499ce5b57735812774382be",
+      "thumbnail": {
+        "src": "images/generated/paintings-14-deep-water/9f56a328e811336c/thumbnail.webp",
+        "width": 161,
+        "height": 300,
+        "bytes": 11402,
+        "sha256": "39ee6ea144a69fe75b54ba4b2c8b5527b272918f86c081a9a4d5cc21a27fb5d9"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-14-deep-water/9f56a328e811336c/display-700.webp",
+          "width": 375,
+          "height": 700,
+          "bytes": 52376,
+          "sha256": "8502a7d21ab402388f2e6e0b8ab5f3aa84d951f52b7a58fee345a16c8f52fdd0"
+        }
+      ]
+    },
+    {
+      "id": "paintings-15-past-present-future",
+      "category": "paintings",
+      "title": "Past, Present, Future",
+      "dimensions": "44x54",
+      "medium": "oil on canvas",
+      "description": "",
+      "order": 15,
+      "source": "paintings-fullsize/16.png",
+      "sourceHash": "9024af830e5437b58deceaac6242c4649fb929f899a6b85ca920eed97bc5aa11",
+      "fingerprint": "d19a85734cb0c8a0d5fc28f6b21c4a49fc5f9a322640186b0c93d3b5c0b4d5fd",
+      "thumbnail": {
+        "src": "images/generated/paintings-15-past-present-future/d19a85734cb0c8a0/thumbnail.webp",
+        "width": 300,
+        "height": 254,
+        "bytes": 12684,
+        "sha256": "d7967e3700fc0f114e7098ae6f999c86f6b9031690470222edb2c3f8a434af6f"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-15-past-present-future/d19a85734cb0c8a0/display-800.webp",
+          "width": 800,
+          "height": 677,
+          "bytes": 65516,
+          "sha256": "40eb22abd1e255ee0082964f3170ec2fef9cccc07c2967cc7a661bd154808816"
+        },
+        {
+          "src": "images/generated/paintings-15-past-present-future/d19a85734cb0c8a0/display-827.webp",
+          "width": 827,
+          "height": 700,
+          "bytes": 68086,
+          "sha256": "99507f3e62c0bde808c39252e7459c34eda8c563ff24b5528e371b2b0980c58c"
+        }
+      ]
+    },
+    {
+      "id": "paintings-16-veiled-women-series-4",
+      "category": "paintings",
+      "title": "Veiled Women Series #4",
+      "dimensions": "18x78",
+      "medium": "acrylic on canvas",
+      "description": "",
+      "order": 16,
+      "source": "paintings-fullsize/17.png",
+      "sourceHash": "1044d8cadfbd65c92a0200f8f111e2ee3947f1b40a87c0643607124333b22f8f",
+      "fingerprint": "362da9dcf564165fd4c15e05320c1896d11a9a4a311f65acdb57787e1691c7ae",
+      "thumbnail": {
+        "src": "images/generated/paintings-16-veiled-women-series-4/362da9dcf564165f/thumbnail.webp",
+        "width": 300,
+        "height": 76,
+        "bytes": 9182,
+        "sha256": "da06b3d6bd998a28e2686302d2705610d4b4f1613dc9510fc75e0464646ff0ba"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-16-veiled-women-series-4/362da9dcf564165f/display-800.webp",
+          "width": 800,
+          "height": 202,
+          "bytes": 37196,
+          "sha256": "71f8110a19d2043612464c0099e9f2479e66c45cb3a4647ba6b8aea40051611c"
+        },
+        {
+          "src": "images/generated/paintings-16-veiled-women-series-4/362da9dcf564165f/display-1600.webp",
+          "width": 1600,
+          "height": 404,
+          "bytes": 83948,
+          "sha256": "03623c2955cd0b4bd0657740648a9d8eeb4c9d5ce24ee39dbf443e19a40c9953"
+        },
+        {
+          "src": "images/generated/paintings-16-veiled-women-series-4/362da9dcf564165f/display-2400.webp",
+          "width": 2400,
+          "height": 606,
+          "bytes": 132052,
+          "sha256": "7102fdc52395c4bbf693eb807052d42e856dcf8db7a3ebee0d4eb732162f4515"
+        }
+      ]
+    },
+    {
+      "id": "paintings-17-golden-summers",
+      "category": "paintings",
+      "title": "Golden Summers",
+      "dimensions": "70x52",
+      "medium": "oil on canvas",
+      "description": "",
+      "order": 17,
+      "source": "paintings-fullsize/18.png",
+      "sourceHash": "c2661ffb9e4de1b0089df4b944db1221ba539d5c19547a16e282f932ec69c18f",
+      "fingerprint": "c4904da9237d8a71eb6e404078f4baa5cb8a4b7706e18e4073fefd2618471a7c",
+      "thumbnail": {
+        "src": "images/generated/paintings-17-golden-summers/c4904da9237d8a71/thumbnail.webp",
+        "width": 207,
+        "height": 300,
+        "bytes": 7248,
+        "sha256": "196100ff92e37e06f644282e4adefe2ff99bf10ec9a87db602c9680a54260921"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-17-golden-summers/c4904da9237d8a71/display-700.webp",
+          "width": 482,
+          "height": 700,
+          "bytes": 32848,
+          "sha256": "3a8d3646b9f1fadef71ebfda3ffee79cc15fcef9a7026bd720632116eaad0a68"
+        }
+      ]
+    },
+    {
+      "id": "paintings-18-early-light",
+      "category": "paintings",
+      "title": "Early Light",
+      "dimensions": "58x42",
+      "medium": "oil on canvas",
+      "description": "",
+      "order": 18,
+      "source": "paintings-fullsize/19.png",
+      "sourceHash": "2f4d5f41464f30622930cf7fd723ff60c81a22125f698db44bd76799f72b7096",
+      "fingerprint": "93690f0d888f908cec570b01483863bdcb9411f438bc39e5befa97b6f98eedcd",
+      "thumbnail": {
+        "src": "images/generated/paintings-18-early-light/93690f0d888f908c/thumbnail.webp",
+        "width": 213,
+        "height": 300,
+        "bytes": 9120,
+        "sha256": "1ae3d40d39c7141c51a3aa9aee8ecda7eb5eb7e68536b4817045e997cc34d61f"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-18-early-light/93690f0d888f908c/display-700.webp",
+          "width": 496,
+          "height": 700,
+          "bytes": 36580,
+          "sha256": "512668f20e227d4e79f65217154ef7de72ddf8da6600b8eb4298dec6ddd5a440"
+        }
+      ]
+    },
+    {
+      "id": "paintings-19-small-1-2-3",
+      "category": "paintings",
+      "title": "Small #1, #2, #3",
+      "dimensions": "each 6x8",
+      "medium": "acrylic on canvas",
+      "description": "",
+      "order": 19,
+      "source": "paintings-fullsize/20.png",
+      "sourceHash": "9cd3b9c1f80929e8b99255627ca7b41f882b39e7d4f4e61c4c8c7f8100300b11",
+      "fingerprint": "ba6aa6a32d78a81f6480c36e8b9087e5c59cf167158d58ae5e35bd02e11ba9ee",
+      "thumbnail": {
+        "src": "images/generated/paintings-19-small-1-2-3/ba6aa6a32d78a81f/thumbnail.webp",
+        "width": 300,
+        "height": 100,
+        "bytes": 7394,
+        "sha256": "3b8324029aa8ceb3a832e0b54ef9c7583ca45f95c1a5fb66c7ac46fa84f76365"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-19-small-1-2-3/ba6aa6a32d78a81f/display-800.webp",
+          "width": 800,
+          "height": 267,
+          "bytes": 32550,
+          "sha256": "f02b3992108c1dac5de8c923734d7f4e882e0fdc3b672a494a39861b02a0eeae"
+        },
+        {
+          "src": "images/generated/paintings-19-small-1-2-3/ba6aa6a32d78a81f/display-1600.webp",
+          "width": 1600,
+          "height": 533,
+          "bytes": 90486,
+          "sha256": "63e63e4a0dfb0216e067928a1b9f401024e9d9634e6182715485384f30a8c616"
+        },
+        {
+          "src": "images/generated/paintings-19-small-1-2-3/ba6aa6a32d78a81f/display-2100.webp",
+          "width": 2100,
+          "height": 700,
+          "bytes": 121336,
+          "sha256": "95f89732f6985fc485674be1af718e91e87826fce99dd07e4c2fc3b03ce1bb94"
+        }
+      ]
+    },
+    {
+      "id": "paintings-20-a-patch-of-blue",
+      "category": "paintings",
+      "title": "A Patch of Blue",
+      "dimensions": "50x60",
+      "medium": "acrylic/mixed media",
+      "description": "",
+      "order": 20,
+      "source": "paintings/21.png",
+      "sourceHash": "d5a098e3e72507ab961c93fd4b17e432bb19d79117ab52d075983ec7aa511f59",
+      "fingerprint": "0d1618698c0d69039517c52cbe638df1c412c93496eb429c9bffd5e8d0545ec1",
+      "thumbnail": {
+        "src": "images/generated/paintings-20-a-patch-of-blue/0d1618698c0d6903/thumbnail.webp",
+        "width": 253,
+        "height": 300,
+        "bytes": 10830,
+        "sha256": "094d189a15ffce49ae98ad89d255a661b730a1492d444fc00fe91c02b0e9fa37"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-20-a-patch-of-blue/0d1618698c0d6903/display-600.webp",
+          "width": 505,
+          "height": 600,
+          "bytes": 39608,
+          "sha256": "c6b89dcc191dc97e44a15862366dcbe69c2d99f5e45cb5ffc5b061b80bf8575b"
+        }
+      ]
+    },
+    {
+      "id": "paintings-21-the-stone-fountain",
+      "category": "paintings",
+      "title": "The Stone Fountain",
+      "dimensions": "52x32",
+      "medium": "acrylic on canvas",
+      "description": "",
+      "order": 21,
+      "source": "paintings/22.png",
+      "sourceHash": "890ea1990855e241de5fd4c9e03de6d2cc321eda92542a1bbd01e8134b9485d3",
+      "fingerprint": "d76c11db5bd97a49249846e24fff0e2883719d00294fa2a35101f614a1e549e7",
+      "thumbnail": {
+        "src": "images/generated/paintings-21-the-stone-fountain/d76c11db5bd97a49/thumbnail.webp",
+        "width": 178,
+        "height": 300,
+        "bytes": 9202,
+        "sha256": "fe077a7745370466913937383f8534b99aebed0f4a533ff7d71c95f311665811"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-21-the-stone-fountain/d76c11db5bd97a49/display-670.webp",
+          "width": 398,
+          "height": 670,
+          "bytes": 37310,
+          "sha256": "96d0cde69f8fa470c9e350c781952c46f2a3874ecbb2df3c6a6874bd99096f61"
+        }
+      ]
+    },
+    {
+      "id": "paintings-22-moving-on",
+      "category": "paintings",
+      "title": "Moving On",
+      "dimensions": "54x32",
+      "medium": "acrylic on canvas",
+      "description": "",
+      "order": 22,
+      "source": "paintings/23.png",
+      "sourceHash": "1ad84229f9c433a45319cf2335f20a2c32990f1d955f4f4cf1d9aabf49f9b24f",
+      "fingerprint": "62d5fcd2848e32654d90bd48b04270741cce43f763d7b68b9d68c9245d3fa9bb",
+      "thumbnail": {
+        "src": "images/generated/paintings-22-moving-on/62d5fcd2848e3265/thumbnail.webp",
+        "width": 176,
+        "height": 300,
+        "bytes": 7680,
+        "sha256": "9fd77e54af4bc4147cc2de03f9a59dbdbe28530e2d73443960d0eba86fd614e6"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-22-moving-on/62d5fcd2848e3265/display-618.webp",
+          "width": 363,
+          "height": 618,
+          "bytes": 34250,
+          "sha256": "dd8e07b3a911783d8bcf728d964221cbaead58c6383c067d7ccf6145c60ff339"
+        }
+      ]
+    },
+    {
+      "id": "paintings-23-coming-close-1-4",
+      "category": "paintings",
+      "title": "Coming Close 1-4",
+      "dimensions": "30x22",
+      "medium": "acrylic on canvas",
+      "description": "",
+      "order": 23,
+      "source": "paintings/comingclosertransparent.png",
+      "sourceHash": "8b156b620b43776ba5cad444db0c4366336e648e3a1f004cfc085bae6a5a9004",
+      "fingerprint": "4701493524303881d7971bbf53c1a0f690e350b6184636b423dec32acf574e00",
+      "thumbnail": {
+        "src": "images/generated/paintings-23-coming-close-1-4/4701493524303881/thumbnail.webp",
+        "width": 300,
+        "height": 104,
+        "bytes": 7788,
+        "sha256": "03d60a591662ccf0c6c9840737f5f84fd91c1d1e63f142c1512f6b22e1f94853"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-23-coming-close-1-4/4701493524303881/display-800.webp",
+          "width": 800,
+          "height": 277,
+          "bytes": 34120,
+          "sha256": "083d28ef241bc99e3e0b640449c3139c32a8ce898bf58451d2d41707ea805e72"
+        },
+        {
+          "src": "images/generated/paintings-23-coming-close-1-4/4701493524303881/display-1600.webp",
+          "width": 1600,
+          "height": 554,
+          "bytes": 106350,
+          "sha256": "2215bda9560b13aaab97fcb9fa5c698465b40d01f4c5313e60b3e24588730e22"
+        },
+        {
+          "src": "images/generated/paintings-23-coming-close-1-4/4701493524303881/display-2400.webp",
+          "width": 2400,
+          "height": 830,
+          "bytes": 203168,
+          "sha256": "3ec60c31c3a7b40672a6c18f5ef9a93806e090b389e706fc080f9283a840c5ff"
+        }
+      ]
+    },
+    {
+      "id": "paintings-24-passage",
+      "category": "paintings",
+      "title": "Passage",
+      "dimensions": "24x18",
+      "medium": "acrylic on canvas",
+      "description": "",
+      "order": 24,
+      "source": "paintings/25.png",
+      "sourceHash": "61579f8543a7f442b391432c246361d058cdf51f7ac0abf47d9c33dfcf2b4e64",
+      "fingerprint": "7bfbc46bf843080b7765ec5780f1fc87b6c68c4f934f3e413ab935c2fd3fcb73",
+      "thumbnail": {
+        "src": "images/generated/paintings-24-passage/7bfbc46bf843080b/thumbnail.webp",
+        "width": 225,
+        "height": 300,
+        "bytes": 10888,
+        "sha256": "a54dc1b15d5f5fae150f6f64f1bce25cb9f0a63a9b57e949694641a7b1c86c76"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-24-passage/7bfbc46bf843080b/display-485.webp",
+          "width": 364,
+          "height": 485,
+          "bytes": 31978,
+          "sha256": "43cc16e0b3fc79c9c03a8baf50c410b41a7b2235e55bd6c94c5aca99d86775fb"
+        }
+      ]
+    },
+    {
+      "id": "paintings-25-pure-pleasure",
+      "category": "paintings",
+      "title": "Pure Pleasure",
+      "dimensions": "56x30",
+      "medium": "acrylic on canvas",
+      "description": "",
+      "order": 25,
+      "source": "paintings/26.png",
+      "sourceHash": "d6692e0a271195f03684992281efda037af9a2f58ced3f79122645b4f6f75cac",
+      "fingerprint": "509de77a2fcc9086d70c516a6c474b1208675b9e8a320a2bb0b993fcb84a768e",
+      "thumbnail": {
+        "src": "images/generated/paintings-25-pure-pleasure/509de77a2fcc9086/thumbnail.webp",
+        "width": 161,
+        "height": 300,
+        "bytes": 7924,
+        "sha256": "5ec6d7c05e3adc95fc83aa0adabd00cd408ba745b3a4cbcd7ef6ee7dfa319fe0"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-25-pure-pleasure/509de77a2fcc9086/display-601.webp",
+          "width": 322,
+          "height": 601,
+          "bytes": 27720,
+          "sha256": "835ad44703656ddd6a698bbdcd5209932d2c40088835e1509ae51ba114a2aa48"
+        }
+      ]
+    },
+    {
+      "id": "paintings-26-coming-apart",
+      "category": "paintings",
+      "title": "Coming Apart",
+      "dimensions": "37x25",
+      "medium": "acrylic and rice paper on paper",
+      "description": "",
+      "order": 26,
+      "source": "paintings/ComingApart.jpg",
+      "sourceHash": "49fcb1346c3d7818b338094fd63579174674bb04530db9c60ec24f0c468ab709",
+      "fingerprint": "b1253e3efbbf34bc198b23a71c8e9d26d290eedb6d3bd5b5e0ff1a4c13b089f0",
+      "thumbnail": {
+        "src": "images/generated/paintings-26-coming-apart/b1253e3efbbf34bc/thumbnail.webp",
+        "width": 223,
+        "height": 300,
+        "bytes": 12566,
+        "sha256": "2e0e18021bdb638698726eb78078095a15bc2c0d4cb0cdd52d3d7a0967b0733c"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-26-coming-apart/b1253e3efbbf34bc/display-800.webp",
+          "width": 594,
+          "height": 800,
+          "bytes": 108342,
+          "sha256": "c3c42dd35491cd0343b91022c647659364b7ef8d776ee5ad8e3bceccac4da433"
+        },
+        {
+          "src": "images/generated/paintings-26-coming-apart/b1253e3efbbf34bc/display-1600.webp",
+          "width": 1188,
+          "height": 1600,
+          "bytes": 250304,
+          "sha256": "3db55caa61a1f4e379c3d1e810680511d491d017431ea2d093dbf49cf8f1c39a"
+        },
+        {
+          "src": "images/generated/paintings-26-coming-apart/b1253e3efbbf34bc/display-2390.webp",
+          "width": 1774,
+          "height": 2390,
+          "bytes": 397738,
+          "sha256": "8a8bcb2d59444bd12cfe0f63896556f11343d045fe21da6a72ebda719458e986"
+        }
+      ]
+    },
+    {
+      "id": "paintings-27-out-of-the-blue",
+      "category": "paintings",
+      "title": "Out of the Blue",
+      "dimensions": "37x25",
+      "medium": "acrylic and rice paper on paper",
+      "description": "",
+      "order": 27,
+      "source": "paintings/outoftheblue.jpg",
+      "sourceHash": "2291c82f44c9f0884869e0f41f18d8533ab3d67ced5e7b975752d2d3e89c9811",
+      "fingerprint": "9b9de54db6c52a75257ab609a2b504dbf05998996511b7439fd93991105775bd",
+      "thumbnail": {
+        "src": "images/generated/paintings-27-out-of-the-blue/9b9de54db6c52a75/thumbnail.webp",
+        "width": 233,
+        "height": 300,
+        "bytes": 12442,
+        "sha256": "f433ff11564204222a8639cdd56406bdccfcaa16349aed5b28f4e43c0256022e"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-27-out-of-the-blue/9b9de54db6c52a75/display-738.webp",
+          "width": 572,
+          "height": 738,
+          "bytes": 63112,
+          "sha256": "09009983dfa4be8b1c70bf90487192a8e8401b30aa8781c288f83eeb2d96166a"
+        }
+      ]
+    },
+    {
+      "id": "paintings-28-picking-up-the-pieces",
+      "category": "paintings",
+      "title": "Picking up the Pieces",
+      "dimensions": "54x32",
+      "medium": "acrylic and rice paper on paper",
+      "description": "",
+      "order": 28,
+      "source": "paintings/pickingupthesepieces.jpg",
+      "sourceHash": "94057474b1974f8fe6a10b90537dae97ee2ae665be8e17f8612a3241dfcb0b3f",
+      "fingerprint": "0c0ff6d802dba9637b0c479b93ca9bdfc67571dd662ec0933ec937eb31290e0e",
+      "thumbnail": {
+        "src": "images/generated/paintings-28-picking-up-the-pieces/0c0ff6d802dba963/thumbnail.webp",
+        "width": 178,
+        "height": 300,
+        "bytes": 11140,
+        "sha256": "4df8396102bd04c13b8f874a2a5cf4c1dfeb2c722a6c2a14f8753199d95ae102"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-28-picking-up-the-pieces/0c0ff6d802dba963/display-723.webp",
+          "width": 429,
+          "height": 723,
+          "bytes": 49428,
+          "sha256": "3dcf39744d12b9d6cfb05bc9bce5d2ed54d191958d73a748f0206ed606191d28"
+        }
+      ]
+    },
+    {
+      "id": "paintings-29-unhinged",
+      "category": "paintings",
+      "title": "Unhinged",
+      "dimensions": "41x22 ",
+      "medium": "acrylic/dital photo on rice paper",
+      "description": "",
+      "order": 29,
+      "source": "paintings/unhinged.png",
+      "sourceHash": "7ef0fdb1a358ac1d07f670c7d06d9d409aa55c789130bfe20351d3282ac0723c",
+      "fingerprint": "389ee2bdacc8fcfc0b9f0499867b9b0238127d664865f27d78a7ee965155318f",
+      "thumbnail": {
+        "src": "images/generated/paintings-29-unhinged/389ee2bdacc8fcfc/thumbnail.webp",
+        "width": 173,
+        "height": 300,
+        "bytes": 10148,
+        "sha256": "710e8a33356d42bdc4551f114f5e82da685e85a27e18b545e041137ce1ff05a6"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-29-unhinged/389ee2bdacc8fcfc/display-569.webp",
+          "width": 329,
+          "height": 569,
+          "bytes": 24338,
+          "sha256": "bc8e6ce9bac198ab8798b99f30c53285a5e81fdcd58a713581aa5cd6bdc4d730"
+        }
+      ]
+    },
+    {
+      "id": "paintings-30-the-most-happy-place",
+      "category": "paintings",
+      "title": "The Most Happy Place",
+      "dimensions": "40x30 ",
+      "medium": "acrylic with mixed media",
+      "description": "",
+      "order": 30,
+      "source": "paintings/themosthappyplace.jpg",
+      "sourceHash": "2bedcb168e94d5e29ad8d87ee18d9b826a63ee14b01e8c0fdf5a84a9c62bbab7",
+      "fingerprint": "fd2c31748d04662e7f033fc1fd68fd449c79238d9b12014685045a501714b79a",
+      "thumbnail": {
+        "src": "images/generated/paintings-30-the-most-happy-place/fd2c31748d04662e/thumbnail.webp",
+        "width": 222,
+        "height": 300,
+        "bytes": 12004,
+        "sha256": "fd4868fd8ebffd8174856de4beae0dfeec38b739be38ca304f8a7806b168458f"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-30-the-most-happy-place/fd2c31748d04662e/display-783.webp",
+          "width": 579,
+          "height": 783,
+          "bytes": 74296,
+          "sha256": "a040398d85a711299543674d6726e42be9f2e1ffc42c43831d8bc1616715582c"
+        }
+      ]
+    },
+    {
+      "id": "pastels-00-the-market",
+      "category": "pastels",
+      "title": "The Market",
+      "dimensions": "32x45 framed",
+      "medium": "pastel on paper",
+      "description": "",
+      "order": 0,
+      "source": "pastels/0.png",
+      "sourceHash": "394337d0d6a5de74bb9be213b17a2fc09cab06633b0a21849a1dec9b5f95f3de",
+      "fingerprint": "b9561fa77add2770af6800a79abd9295d53da735213e73a489ec14642b256a8d",
+      "thumbnail": {
+        "src": "images/generated/pastels-00-the-market/b9561fa77add2770/thumbnail.webp",
+        "width": 300,
+        "height": 217,
+        "bytes": 11106,
+        "sha256": "9b8c18e33b19ae26712ccf7eb2ce5c2af5c7f2f55c347522ca937e284d581298"
+      },
+      "variants": [
+        {
+          "src": "images/generated/pastels-00-the-market/b9561fa77add2770/display-800.webp",
+          "width": 800,
+          "height": 579,
+          "bytes": 76824,
+          "sha256": "323e846b712bc18b71618df13aad6bfe9e526d59ae67ca02b6dc5ee70cffe7cf"
+        },
+        {
+          "src": "images/generated/pastels-00-the-market/b9561fa77add2770/display-968.webp",
+          "width": 968,
+          "height": 700,
+          "bytes": 109888,
+          "sha256": "38e02a83a2b23bd1c0673285d01201847af008bf3d9d293199798c880d2cc291"
+        }
+      ]
+    },
+    {
+      "id": "pastels-01-jerusalem-night",
+      "category": "pastels",
+      "title": "Jerusalem Night",
+      "dimensions": "45x30 framed",
+      "medium": "pastel on paper",
+      "description": "",
+      "order": 1,
+      "source": "pastels/1.png",
+      "sourceHash": "cb1dde105345a772873a2fd3e72d5b81c9a9fba89cef762dbe3aa1ba00c60d80",
+      "fingerprint": "2fbc99ba97e7ebd40c54b245d5dbdd1bc24e567d2b49f4a8fdd22826f67e3df7",
+      "thumbnail": {
+        "src": "images/generated/pastels-01-jerusalem-night/2fbc99ba97e7ebd4/thumbnail.webp",
+        "width": 198,
+        "height": 300,
+        "bytes": 12150,
+        "sha256": "0a8976162252b8081a8302439189f062d611ebd43ddbc3a78e66e7e8e3bac31c"
+      },
+      "variants": [
+        {
+          "src": "images/generated/pastels-01-jerusalem-night/2fbc99ba97e7ebd4/display-700.webp",
+          "width": 463,
+          "height": 700,
+          "bytes": 58792,
+          "sha256": "d740b9a18e5289496e8da98ec4ccd9ee140cca574abe78c34688e3a7fccf7f43"
+        }
+      ]
+    },
+    {
+      "id": "pastels-02-coming-together",
+      "category": "pastels",
+      "title": "Coming Together",
+      "dimensions": "32x45 framed",
+      "medium": "pastel on paper",
+      "description": "",
+      "order": 2,
+      "source": "pastels/2.png",
+      "sourceHash": "6021a1342ffaa16d8b9df63e8d3f5e11d7652bd15b6cefc0b483e478ee3284f1",
+      "fingerprint": "bb609e3d6798b8d405753b15fb955576ca03565261641edde864265237e6e21c",
+      "thumbnail": {
+        "src": "images/generated/pastels-02-coming-together/bb609e3d6798b8d4/thumbnail.webp",
+        "width": 300,
+        "height": 214,
+        "bytes": 10164,
+        "sha256": "c96f18a19abaced05c36737868857bf52323dbd3e8265b9c30175db401885038"
+      },
+      "variants": [
+        {
+          "src": "images/generated/pastels-02-coming-together/bb609e3d6798b8d4/display-800.webp",
+          "width": 800,
+          "height": 570,
+          "bytes": 61714,
+          "sha256": "0aaba2e134964f798626628265e26ffca18ad4bc6963d6d149847e239a22ecbe"
+        },
+        {
+          "src": "images/generated/pastels-02-coming-together/bb609e3d6798b8d4/display-982.webp",
+          "width": 982,
+          "height": 700,
+          "bytes": 90068,
+          "sha256": "cf63639429b0c0bf24c219cbaaac91a3651e78ec09ac1fcad4224cb0612f6394"
+        }
+      ]
+    },
+    {
+      "id": "pastels-03-archways",
+      "category": "pastels",
+      "title": "Archways",
+      "dimensions": "28x18 framed",
+      "medium": "pastel on paper",
+      "description": "",
+      "order": 3,
+      "source": "pastels/3.png",
+      "sourceHash": "2936ddeea5d466e97c71396508f670a8e1a19ed3a79605e4e5b59f4410e28b05",
+      "fingerprint": "3a6bf1a94f70d25542f8998609b189ef290f0a8959357fef51b0c728a999d153",
+      "thumbnail": {
+        "src": "images/generated/pastels-03-archways/3a6bf1a94f70d255/thumbnail.webp",
+        "width": 246,
+        "height": 300,
+        "bytes": 10228,
+        "sha256": "3b61a9b2ba7cff14420db83b4c94fd224649dbb544868895c014361e12da0ecd"
+      },
+      "variants": [
+        {
+          "src": "images/generated/pastels-03-archways/3a6bf1a94f70d255/display-700.webp",
+          "width": 575,
+          "height": 700,
+          "bytes": 59806,
+          "sha256": "f9e4d73ad39d99176c9d1cdead533d271aaff92453f8e4a2007134688262fdcc"
+        }
+      ]
+    },
+    {
+      "id": "pastels-04-untitled",
+      "category": "pastels",
+      "title": "Untitled",
+      "dimensions": "18x14",
+      "medium": "pastel on paper",
+      "description": "",
+      "order": 4,
+      "source": "pastels/4.png",
+      "sourceHash": "9514891a720d1a38418865316dd86ad1640613082882adede1255f7ada588198",
+      "fingerprint": "87dc4a78d536876314c60c4c8ee7d0bedf2279a1a7f50f2d78f2617dda02e1f1",
+      "thumbnail": {
+        "src": "images/generated/pastels-04-untitled/87dc4a78d5368763/thumbnail.webp",
+        "width": 230,
+        "height": 300,
+        "bytes": 10232,
+        "sha256": "e1ee9a78e8d6a69e19abaea360517fea9cab95ec3208e5f6f069fc4da853ee39"
+      },
+      "variants": [
+        {
+          "src": "images/generated/pastels-04-untitled/87dc4a78d5368763/display-700.webp",
+          "width": 537,
+          "height": 700,
+          "bytes": 52656,
+          "sha256": "f37e0defbfee650c911c3a155e520fc7b2e26703f13275abb349f0fa11bfb363"
+        }
+      ]
+    },
+    {
+      "id": "pastels-05-blue-morning",
+      "category": "pastels",
+      "title": "Blue Morning",
+      "dimensions": "18x14",
+      "medium": "pastel on paper",
+      "description": "",
+      "order": 5,
+      "source": "pastels/5.png",
+      "sourceHash": "ead4415c9e67c107b0fccf6aa4a606747429930edbd57ac09008a287ab821a24",
+      "fingerprint": "4c279c6d05700a362d9378d438991702babcaf92694a9c167318b402dbc37903",
+      "thumbnail": {
+        "src": "images/generated/pastels-05-blue-morning/4c279c6d05700a36/thumbnail.webp",
+        "width": 217,
+        "height": 300,
+        "bytes": 7652,
+        "sha256": "a1d550b153d15346e64e426ac983b48fc5bdc50616a85048f5f993c49e42cf20"
+      },
+      "variants": [
+        {
+          "src": "images/generated/pastels-05-blue-morning/4c279c6d05700a36/display-700.webp",
+          "width": 506,
+          "height": 700,
+          "bytes": 50874,
+          "sha256": "31145a375f8098699036f6104068e39fa74978f8700ee2ef83a5038e0db4f113"
+        }
+      ]
+    },
+    {
+      "id": "pastels-06-untitled",
+      "category": "pastels",
+      "title": "Untitled",
+      "dimensions": "18x14",
+      "medium": "pastel on paper",
+      "description": "",
+      "order": 6,
+      "source": "pastels/6.png",
+      "sourceHash": "784fa4555d550464f0437fcf065bf0692a74b97bbf5cdf30affd8e3fa8b4f704",
+      "fingerprint": "e776c92425a9283f0f1f811cef2341581af12850c3aa1f4072ff26e4ea163b5b",
+      "thumbnail": {
+        "src": "images/generated/pastels-06-untitled/e776c92425a9283f/thumbnail.webp",
+        "width": 225,
+        "height": 300,
+        "bytes": 10472,
+        "sha256": "58765efbb3119e6a81b2037da6b00afcb4617586808b5ece3c02257c4d9c5f37"
+      },
+      "variants": [
+        {
+          "src": "images/generated/pastels-06-untitled/e776c92425a9283f/display-700.webp",
+          "width": 524,
+          "height": 700,
+          "bytes": 75198,
+          "sha256": "0f34d2fc4f7ba42276500e9b80bbd5e96b031bb044b0f872396ebd1fbf01104f"
+        }
+      ]
+    },
+    {
+      "id": "pastels-07-red-walls",
+      "category": "pastels",
+      "title": "Red Walls",
+      "dimensions": "18x14",
+      "medium": "pastel on paper",
+      "description": "",
+      "order": 7,
+      "source": "pastels/7.png",
+      "sourceHash": "a374cfddc066495764f6ecccb1a57cd06c3534c0006e2a0c38a1f704df7e08f9",
+      "fingerprint": "f39581a34da0c520b0203533928adaf32dc39788b58c927e4e85273e21d8b121",
+      "thumbnail": {
+        "src": "images/generated/pastels-07-red-walls/f39581a34da0c520/thumbnail.webp",
+        "width": 214,
+        "height": 300,
+        "bytes": 10890,
+        "sha256": "92a147c1d2722e71e8dc67167c88a97a71b8e1b24e36cd621023dabe8839ab49"
+      },
+      "variants": [
+        {
+          "src": "images/generated/pastels-07-red-walls/f39581a34da0c520/display-700.webp",
+          "width": 500,
+          "height": 700,
+          "bytes": 82476,
+          "sha256": "5da2fe9f9fcfaadc877e6867e7f4446641d1bdc8c7ae9a9db84c997565a99a4a"
+        }
+      ]
+    },
+    {
+      "id": "pastels-08-april-s-approach",
+      "category": "pastels",
+      "title": "April's Approach",
+      "dimensions": "18x14",
+      "medium": "pastel on paper",
+      "description": "",
+      "order": 8,
+      "source": "pastels/8.png",
+      "sourceHash": "dce8b42652ab1bc449ec0ea375f3aeb1eea3b1be29547928e8e1504eaae6be89",
+      "fingerprint": "a6ece673acf98260487588ef1f1ef2f9f008d0b9f1b4d67aac78840948755bcb",
+      "thumbnail": {
+        "src": "images/generated/pastels-08-april-s-approach/a6ece673acf98260/thumbnail.webp",
+        "width": 215,
+        "height": 300,
+        "bytes": 8692,
+        "sha256": "c386dbf5e7db62ebdfcc05365cf2e572b93695e918a7cfd9b0681182bf4ae659"
+      },
+      "variants": [
+        {
+          "src": "images/generated/pastels-08-april-s-approach/a6ece673acf98260/display-700.webp",
+          "width": 501,
+          "height": 700,
+          "bytes": 55720,
+          "sha256": "9289341bc0a3b3e92b364d6255e521616f2e6338e932d16b6ea17197c8c5e044"
+        }
+      ]
+    },
+    {
+      "id": "photos-00-tomato-ribbons",
+      "category": "photos",
+      "title": "Tomato Ribbons",
+      "dimensions": "16x12",
+      "medium": "digital",
+      "description": "",
+      "order": 0,
+      "source": "photos/0.jpg",
+      "sourceHash": "6c30cce67b5a771dbd8b82f82c20fe6f9b48f29bde61992e67f22ff07697b740",
+      "fingerprint": "823817bfd91b351e7f5899d4ec598e83bb99104d09d9ecef650e41296fb568ac",
+      "thumbnail": {
+        "src": "images/generated/photos-00-tomato-ribbons/823817bfd91b351e/thumbnail.webp",
+        "width": 226,
+        "height": 300,
+        "bytes": 20234,
+        "sha256": "effc1c7fd8fa51e4a6ce1ef702715b0e11d589fd65976b808e978e3ae908747b"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-00-tomato-ribbons/823817bfd91b351e/display-600.webp",
+          "width": 452,
+          "height": 600,
+          "bytes": 64332,
+          "sha256": "02723ddf2442e7ae5b457a49e43b4767754fb052737c54376839b1f8ef36561b"
+        }
+      ]
+    },
+    {
+      "id": "photos-01-amsterdam-night",
+      "category": "photos",
+      "title": " Amsterdam Night",
+      "dimensions": "9x6",
+      "medium": "digital",
+      "description": "",
+      "order": 1,
+      "source": "photos-fullsize/1.jpg",
+      "sourceHash": "062c622d1ee68c1a13ab5c78c87e8fdc493567a087b212bcfe70172523eace1e",
+      "fingerprint": "1459693ba38ca32433aef3a10e3622ce509b94f746efef07b276834052954aa8",
+      "thumbnail": {
+        "src": "images/generated/photos-01-amsterdam-night/1459693ba38ca324/thumbnail.webp",
+        "width": 300,
+        "height": 227,
+        "bytes": 16936,
+        "sha256": "084d6e444c5127cae40008fa607e90e041dd44355a9260ec8b8267f0ecb4cd01"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-01-amsterdam-night/1459693ba38ca324/display-800.webp",
+          "width": 800,
+          "height": 607,
+          "bytes": 100516,
+          "sha256": "7f380f262974b4fd998bc627f7e30d479f8345a8223016a0bb176c7de6875996"
+        },
+        {
+          "src": "images/generated/photos-01-amsterdam-night/1459693ba38ca324/display-1280.webp",
+          "width": 1280,
+          "height": 971,
+          "bytes": 222258,
+          "sha256": "67805ed203571e697967f8f4ee6e86ddd8536af8ace3bfb56bb52cf7fbf36873"
+        }
+      ]
+    },
+    {
+      "id": "photos-02-sandy-s-arrival",
+      "category": "photos",
+      "title": "Sandy's Arrival",
+      "dimensions": "14x15.5",
+      "medium": "digital",
+      "description": "",
+      "order": 2,
+      "source": "photos-fullsize/2.jpg",
+      "sourceHash": "c53a7c693ca832a7fe1a9fd625f31862048e50732b0483a9afcd5942403b2650",
+      "fingerprint": "39a110420da836671f46d856a51df5fe0467fce637a084ba361743f9defc5fcb",
+      "thumbnail": {
+        "src": "images/generated/photos-02-sandy-s-arrival/39a110420da83667/thumbnail.webp",
+        "width": 300,
+        "height": 190,
+        "bytes": 15012,
+        "sha256": "b085be9a4fd8e5c93c6adc3aed77460d098e8708e5615a0737f3f07cf9854cd7"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-02-sandy-s-arrival/39a110420da83667/display-800.webp",
+          "width": 800,
+          "height": 508,
+          "bytes": 129424,
+          "sha256": "fcf7e499b8ede0529cd3c9fcaeafbcd9d16b5e5a628466844164186a0afa7c3a"
+        },
+        {
+          "src": "images/generated/photos-02-sandy-s-arrival/39a110420da83667/display-1280.webp",
+          "width": 1280,
+          "height": 813,
+          "bytes": 304542,
+          "sha256": "34f8a56e4c2b307792438f79d3c79988e8f7972f7b912a650ca2a23cf77e74d6"
+        }
+      ]
+    },
+    {
+      "id": "photos-03-waiting-for-bee",
+      "category": "photos",
+      "title": "Waiting for Bee",
+      "dimensions": "11.5x15.5",
+      "medium": "digital",
+      "description": "",
+      "order": 3,
+      "source": "photos-fullsize/3.jpg",
+      "sourceHash": "ff3c85bea1f54c3401035ca891dfc93c2559879eca484caeb4a9d5cac9b9dd15",
+      "fingerprint": "666b86841b62f39d7fc423333edd31decda685eec589702b57b853b32e35c5c1",
+      "thumbnail": {
+        "src": "images/generated/photos-03-waiting-for-bee/666b86841b62f39d/thumbnail.webp",
+        "width": 300,
+        "height": 245,
+        "bytes": 5012,
+        "sha256": "da37bce436a024e81097178066ea7aeb8b19faa1082beb39ea88a6e0a72859bf"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-03-waiting-for-bee/666b86841b62f39d/display-800.webp",
+          "width": 800,
+          "height": 654,
+          "bytes": 22380,
+          "sha256": "092607545646cd843d951cbfc457915c763f72ddf026c9a1f682edc4b91ec6ae"
+        },
+        {
+          "src": "images/generated/photos-03-waiting-for-bee/666b86841b62f39d/display-1280.webp",
+          "width": 1280,
+          "height": 1047,
+          "bytes": 46256,
+          "sha256": "8255b29acd2f294fed6dc747079f4ac8f9757a8cfc9691f6554aba1ebedf5bc4"
+        }
+      ]
+    },
+    {
+      "id": "photos-04-ominous",
+      "category": "photos",
+      "title": "Ominous",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 4,
+      "source": "photos-fullsize/4.jpg",
+      "sourceHash": "a62102a46a6217db77c9a12fb2b11c49943ebbd1a1d2f00d5f07ce3c50f08154",
+      "fingerprint": "b2e9441e92d1897224ee0f577aaaaf0c5288fb55d47547eaf050fde0314d1695",
+      "thumbnail": {
+        "src": "images/generated/photos-04-ominous/b2e9441e92d18972/thumbnail.webp",
+        "width": 300,
+        "height": 207,
+        "bytes": 8588,
+        "sha256": "540afaca7a08710b18d4e9c61caa03361942919fadddfae5f9269b05f6bd2ece"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-04-ominous/b2e9441e92d18972/display-800.webp",
+          "width": 800,
+          "height": 552,
+          "bytes": 52240,
+          "sha256": "9fd4878c8e57a23b24a7f5f514546249dbade8ce911eeb2e8349338f37351966"
+        },
+        {
+          "src": "images/generated/photos-04-ominous/b2e9441e92d18972/display-1280.webp",
+          "width": 1280,
+          "height": 883,
+          "bytes": 110172,
+          "sha256": "bdf74128bd85a03c12676b4bf9a979824e3649bd238accc5a93ac42428aa3770"
+        }
+      ]
+    },
+    {
+      "id": "photos-05-pushing-through",
+      "category": "photos",
+      "title": "Pushing Through",
+      "dimensions": "16x14",
+      "medium": "digital",
+      "description": "",
+      "order": 5,
+      "source": "photos-fullsize/5.jpg",
+      "sourceHash": "2164967cd66ac170f7ee8f296b7ed165082dcb700f3fd8dfe088f61ff8a91089",
+      "fingerprint": "d6cda2af2e63a4227206cdb6b28e9563633e11a25cdb999219f4565be74af894",
+      "thumbnail": {
+        "src": "images/generated/photos-05-pushing-through/d6cda2af2e63a422/thumbnail.webp",
+        "width": 207,
+        "height": 300,
+        "bytes": 13046,
+        "sha256": "4c7c8248a4a30c42f5b2ed4d2d67c8c227685b84dfb7356306eb58dd9dbef138"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-05-pushing-through/d6cda2af2e63a422/display-800.webp",
+          "width": 553,
+          "height": 800,
+          "bytes": 55054,
+          "sha256": "e9c11c2f34a3d152308e1f3d8ecc64d839828685171b66f7e45058bfb6216fb3"
+        },
+        {
+          "src": "images/generated/photos-05-pushing-through/d6cda2af2e63a422/display-900.webp",
+          "width": 622,
+          "height": 900,
+          "bytes": 63476,
+          "sha256": "a2fca27051bb5419be05cc088880f512401868a427576495090c07ce6cd8adad"
+        }
+      ]
+    },
+    {
+      "id": "photos-06-watching-his-world",
+      "category": "photos",
+      "title": "Watching His World",
+      "dimensions": "14x14",
+      "medium": "digital",
+      "description": "",
+      "order": 6,
+      "source": "photos/6.jpg",
+      "sourceHash": "a141b843a3b98ed0663525d6f5d67d996f64da536caed11839a523acd8b389d6",
+      "fingerprint": "5ca9f2389b5e09a88371686696cc93895e08e175fbb4b37cb23030d7b2c50a12",
+      "thumbnail": {
+        "src": "images/generated/photos-06-watching-his-world/5ca9f2389b5e09a8/thumbnail.webp",
+        "width": 300,
+        "height": 291,
+        "bytes": 8658,
+        "sha256": "4574ef8c0f6b613327017e4419b86eb0740a8772511106b0120a8c849f16a83c"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-06-watching-his-world/5ca9f2389b5e09a8/display-800.webp",
+          "width": 800,
+          "height": 776,
+          "bytes": 41464,
+          "sha256": "b440f2b0ad34fb6052201e2d4b85908219b75f05f221c0699abb1b259bbf1b86"
+        }
+      ]
+    },
+    {
+      "id": "photos-07-untitled",
+      "category": "photos",
+      "title": "Untitled",
+      "dimensions": "16x14",
+      "medium": "digital",
+      "description": "",
+      "order": 7,
+      "source": "photos-fullsize/7.jpg",
+      "sourceHash": "78a3217cb6c3dc7bc1e79968b2b82f1978dc3db92ee70c6b53003986a7ccd51e",
+      "fingerprint": "df315160e5543bdb45f4c3f590b0cf53826a6d0852d72d3e6d996f3c3c148acb",
+      "thumbnail": {
+        "src": "images/generated/photos-07-untitled/df315160e5543bdb/thumbnail.webp",
+        "width": 224,
+        "height": 300,
+        "bytes": 12278,
+        "sha256": "9cb90cbbf6d94673a80a78e434d3502f9ee45f00235171852bb73c685d889eaf"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-07-untitled/df315160e5543bdb/display-800.webp",
+          "width": 598,
+          "height": 800,
+          "bytes": 64684,
+          "sha256": "05899b6f7e2fb3b40b344402eb7b4c243d2193d1c53d7ee76c4a89db5f927316"
+        },
+        {
+          "src": "images/generated/photos-07-untitled/df315160e5543bdb/display-900.webp",
+          "width": 673,
+          "height": 900,
+          "bytes": 73274,
+          "sha256": "818aa06d10306b8aa1b6928eedd36d86fa38a3b815f8be19760bb9e434440712"
+        }
+      ]
+    },
+    {
+      "id": "photos-08-all-ears",
+      "category": "photos",
+      "title": "All Ears",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 8,
+      "source": "photos-fullsize/8.jpg",
+      "sourceHash": "98a5d531a29646b2226871d222112deb296cce210f77cbbad14a444253e48647",
+      "fingerprint": "5a6e434f87763486bbede24a8c845f7fbfc8b3cac05b8b2904a2574ce3260ab2",
+      "thumbnail": {
+        "src": "images/generated/photos-08-all-ears/5a6e434f87763486/thumbnail.webp",
+        "width": 300,
+        "height": 233,
+        "bytes": 14352,
+        "sha256": "d3d71987eba0b004e260b2abaf93436985410081d24e495a64c2ec4d447bac83"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-08-all-ears/5a6e434f87763486/display-800.webp",
+          "width": 800,
+          "height": 620,
+          "bytes": 65450,
+          "sha256": "dd7e93b68890826ae7f5d82a017abec7711fc228ae4f86adede7ed7034f36c84"
+        },
+        {
+          "src": "images/generated/photos-08-all-ears/5a6e434f87763486/display-1280.webp",
+          "width": 1280,
+          "height": 992,
+          "bytes": 117138,
+          "sha256": "b02575ce2e3899cd54fbd1d5d4d771b5f8a1e6e42039ccce643c30cb25714379"
+        }
+      ]
+    },
+    {
+      "id": "photos-09-hide-and-seek",
+      "category": "photos",
+      "title": "Hide and Seek",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 9,
+      "source": "photos-fullsize/9.jpg",
+      "sourceHash": "647280ffaaa02130166b7c53ea232224e0616df965415fef64423d3857a58737",
+      "fingerprint": "f16a7ce168215baaf022ef95935967bc765ae4b30ace0c4f6512f8e98083c72a",
+      "thumbnail": {
+        "src": "images/generated/photos-09-hide-and-seek/f16a7ce168215baa/thumbnail.webp",
+        "width": 300,
+        "height": 239,
+        "bytes": 24294,
+        "sha256": "bc707636b517ae3eec45860970e869d6d324d5ab5506fea182835bf275539739"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-09-hide-and-seek/f16a7ce168215baa/display-800.webp",
+          "width": 800,
+          "height": 638,
+          "bytes": 135522,
+          "sha256": "282eb5316724971f3428452a5ef16742810315e01aa56ae5551b8266e6d53606"
+        },
+        {
+          "src": "images/generated/photos-09-hide-and-seek/f16a7ce168215baa/display-1280.webp",
+          "width": 1280,
+          "height": 1021,
+          "bytes": 279868,
+          "sha256": "b85e25b1daa070312cc15f619957c80f9c21efb45fe573806518dbb74cc7e775"
+        }
+      ]
+    },
+    {
+      "id": "photos-10-two-toned",
+      "category": "photos",
+      "title": "Two Toned",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 10,
+      "source": "photos-fullsize/10.jpg",
+      "sourceHash": "e0f1cf95ef602c090c0bc4986b234cb9af9dc7afe66ea3d8762aca7da8e32c2c",
+      "fingerprint": "24bd14f828da523f91996571d360435f8bba8b6f0f5ddce327d7814147295fc3",
+      "thumbnail": {
+        "src": "images/generated/photos-10-two-toned/24bd14f828da523f/thumbnail.webp",
+        "width": 300,
+        "height": 225,
+        "bytes": 20922,
+        "sha256": "3550670db6f4f08bcfc707064a885e67b55fb389c39ac1ad7224da4584503ff3"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-10-two-toned/24bd14f828da523f/display-800.webp",
+          "width": 800,
+          "height": 599,
+          "bytes": 106218,
+          "sha256": "7f000ac95365313fada8bafd3040ee2bce8833e3e13e6c7ec19e39c20d096a52"
+        },
+        {
+          "src": "images/generated/photos-10-two-toned/24bd14f828da523f/display-1280.webp",
+          "width": 1280,
+          "height": 958,
+          "bytes": 221830,
+          "sha256": "c20927a9cb3067dab0ccf02715242879ac3bcc3cffec97c664d68da4f0749bd7"
+        }
+      ]
+    },
+    {
+      "id": "photos-11-river-view",
+      "category": "photos",
+      "title": "River View",
+      "dimensions": "10.5x18",
+      "medium": "digital",
+      "description": "",
+      "order": 11,
+      "source": "photos-fullsize/11.jpg",
+      "sourceHash": "74e6852a8570baa29b3aa32a487209625eab662105c21f185c9b2b1c7960e6dc",
+      "fingerprint": "287d7e09d1b0c4f2dca93c259012c7b72e91966db7bf1f1b16554c2fbf839e1b",
+      "thumbnail": {
+        "src": "images/generated/photos-11-river-view/287d7e09d1b0c4f2/thumbnail.webp",
+        "width": 300,
+        "height": 170,
+        "bytes": 4288,
+        "sha256": "9e8fdc1fb0a7a005775130342cde4aab992f024e48e21704b37b30599f4482bd"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-11-river-view/287d7e09d1b0c4f2/display-800.webp",
+          "width": 800,
+          "height": 454,
+          "bytes": 23142,
+          "sha256": "13e20c933f2cd3b985d4e987acca33044fc63cc39ab4a71a1e202575eeb1b45a"
+        },
+        {
+          "src": "images/generated/photos-11-river-view/287d7e09d1b0c4f2/display-1280.webp",
+          "width": 1280,
+          "height": 726,
+          "bytes": 57216,
+          "sha256": "2a5c4c4069c2e6020ca524b5ebd9d83314d69a27bba981dd68703984af44bad8"
+        }
+      ]
+    },
+    {
+      "id": "photos-12-blue-ice",
+      "category": "photos",
+      "title": "Blue Ice",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 12,
+      "source": "photos-fullsize/12.jpg",
+      "sourceHash": "fec7d4997924f0031762000e39c4dd773e45382e14eaa990b8cd6e182979db0f",
+      "fingerprint": "7ecc3b8a1fde49ee04cdab564d6fb70170bba77fdacc324f84b59e1b3f7bfee3",
+      "thumbnail": {
+        "src": "images/generated/photos-12-blue-ice/7ecc3b8a1fde49ee/thumbnail.webp",
+        "width": 300,
+        "height": 225,
+        "bytes": 12512,
+        "sha256": "e936567168a442c5546404340d521d30d9f5b90c82364b4967d778c75be79858"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-12-blue-ice/7ecc3b8a1fde49ee/display-800.webp",
+          "width": 800,
+          "height": 600,
+          "bytes": 90060,
+          "sha256": "2368c0b6753bd74a88290156e1f90f866227d0efde8149f102fef7b545287970"
+        },
+        {
+          "src": "images/generated/photos-12-blue-ice/7ecc3b8a1fde49ee/display-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 214164,
+          "sha256": "75ea354fdad614763188409da43ab6ab369a2ec2b34a2c773bf8ec6bdbd7c3ab"
+        }
+      ]
+    },
+    {
+      "id": "photos-13-beyond",
+      "category": "photos",
+      "title": "Beyond",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 13,
+      "source": "photos-fullsize/13.jpg",
+      "sourceHash": "ed01c78b5dc8090460f8e26450530de0fd62aee9608c5aa6db7abfa902e0715d",
+      "fingerprint": "99f7514df80ee65c4dc5dec5c1731e5bedfacb7023da3cc8e1ed8efe91b5cc54",
+      "thumbnail": {
+        "src": "images/generated/photos-13-beyond/99f7514df80ee65c/thumbnail.webp",
+        "width": 300,
+        "height": 225,
+        "bytes": 10936,
+        "sha256": "3be0fc8ffe59034d896db8802b0c05b12894e3ae4e23ab0f6ea7a5249d530299"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-13-beyond/99f7514df80ee65c/display-800.webp",
+          "width": 800,
+          "height": 600,
+          "bytes": 84878,
+          "sha256": "785c9bc051d8fa219b7b673bf9a421601f1a0ac9da4cfd4c42f50e1da183b494"
+        },
+        {
+          "src": "images/generated/photos-13-beyond/99f7514df80ee65c/display-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 166198,
+          "sha256": "79dd51be339c00151372d69ee960bc2b139cc94a117c08124833f12936b5a7e6"
+        }
+      ]
+    },
+    {
+      "id": "photos-14-star-catcher",
+      "category": "photos",
+      "title": "Star Catcher",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 14,
+      "source": "photos-fullsize/14.jpg",
+      "sourceHash": "c6340f734e7eb3e248978d72e38f79990ae2e4c4eaed762847cc82f30bb5f5c2",
+      "fingerprint": "1c6ad26c8d9ae39b522a952a1c7ec30097a2f1b7697c3676eedee922e5aa8aa6",
+      "thumbnail": {
+        "src": "images/generated/photos-14-star-catcher/1c6ad26c8d9ae39b/thumbnail.webp",
+        "width": 300,
+        "height": 225,
+        "bytes": 18426,
+        "sha256": "64866da36e5663c2a7d5893ed5dd5f6f8746920c32a7c4d5ef0a03f7de52e9ba"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-14-star-catcher/1c6ad26c8d9ae39b/display-800.webp",
+          "width": 800,
+          "height": 600,
+          "bytes": 82726,
+          "sha256": "ac9388786fc0119c09f4f296b27233604fb6e5784e17bcf49ad3f49350ad6014"
+        },
+        {
+          "src": "images/generated/photos-14-star-catcher/1c6ad26c8d9ae39b/display-1600.webp",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 226904,
+          "sha256": "a05fd0bf41e5103104479cc72a2b43821de52a44e92090059d5e1eb6773ef551"
+        },
+        {
+          "src": "images/generated/photos-14-star-catcher/1c6ad26c8d9ae39b/display-2400.webp",
+          "width": 2400,
+          "height": 1800,
+          "bytes": 414410,
+          "sha256": "3ee07da247592acc493504464df850fac8dc81a4bf00692b3b70e3377b1409d3"
+        }
+      ]
+    },
+    {
+      "id": "photos-15-autunm",
+      "category": "photos",
+      "title": "Autunm",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 15,
+      "source": "photos-fullsize/15.jpg",
+      "sourceHash": "8b6b79f21bd14ea2285ac2e32cd569cb2f08e6e27c6e8ff566eecac24a728814",
+      "fingerprint": "bb5d3960ee2d4cce3fd2c998cb48914561e8e79b43a30947e75e82ff849ba7c2",
+      "thumbnail": {
+        "src": "images/generated/photos-15-autunm/bb5d3960ee2d4cce/thumbnail.webp",
+        "width": 300,
+        "height": 225,
+        "bytes": 28510,
+        "sha256": "fb5efd36db5d64937a3d29498b0aeaf2c204802bf2116f05464fba9c2578801f"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-15-autunm/bb5d3960ee2d4cce/display-800.webp",
+          "width": 800,
+          "height": 600,
+          "bytes": 197328,
+          "sha256": "96544869568ac8c078e99d2a529be6e037f2bafbf6c3d6252a27fad495c2553c"
+        },
+        {
+          "src": "images/generated/photos-15-autunm/bb5d3960ee2d4cce/display-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 438738,
+          "sha256": "7516416051266b81f5105ce33ab0bb00fabbaf9bc1c39cbde139358e2f759208"
+        }
+      ]
+    },
+    {
+      "id": "photos-16-blue-pool",
+      "category": "photos",
+      "title": "Blue Pool",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 16,
+      "source": "photos-fullsize/16.jpg",
+      "sourceHash": "1a67299b72addd6bb3b720b35f335e1f410203325c5f2c1183598a621afa68f1",
+      "fingerprint": "71f38fed760c6784724103c7af02bbf8383b567d348423705507b14e5fa46f9f",
+      "thumbnail": {
+        "src": "images/generated/photos-16-blue-pool/71f38fed760c6784/thumbnail.webp",
+        "width": 300,
+        "height": 199,
+        "bytes": 13932,
+        "sha256": "eb43ade1190b75e4492b87228f1e799ca070892057761296fb3e359e1123acc4"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-16-blue-pool/71f38fed760c6784/display-800.webp",
+          "width": 800,
+          "height": 532,
+          "bytes": 106430,
+          "sha256": "a5fd0fea7e90dbb9b897292d36a248ef25835066120bc8a44c6790fae28eacfb"
+        },
+        {
+          "src": "images/generated/photos-16-blue-pool/71f38fed760c6784/display-1280.webp",
+          "width": 1280,
+          "height": 851,
+          "bytes": 263624,
+          "sha256": "ca7257ea1615a74c498a9570ec3f500059f90cdecea4b67853da57b7176c703b"
+        }
+      ]
+    },
+    {
+      "id": "photos-17-the-seashelf",
+      "category": "photos",
+      "title": "The Seashelf",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 17,
+      "source": "photos-fullsize/17.jpg",
+      "sourceHash": "7f3d75bb54efc184d6bf60a5d83f7a82dd75f54398aa39d9728d6a715c4c6790",
+      "fingerprint": "95c32ec289faa4ca50f50b18118e1c627f675ef3fb2d30e2fe2a6a6bd256e634",
+      "thumbnail": {
+        "src": "images/generated/photos-17-the-seashelf/95c32ec289faa4ca/thumbnail.webp",
+        "width": 300,
+        "height": 216,
+        "bytes": 13772,
+        "sha256": "b1a7b64ccaaffb0e9b895099431363740867650a83d5d6b2ecb338bdeb74d4e4"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-17-the-seashelf/95c32ec289faa4ca/display-800.webp",
+          "width": 800,
+          "height": 576,
+          "bytes": 61922,
+          "sha256": "159c538eb0ea5f3f7886c916761917b25255fc1d847de80bbeb044f869f9b351"
+        },
+        {
+          "src": "images/generated/photos-17-the-seashelf/95c32ec289faa4ca/display-1280.webp",
+          "width": 1280,
+          "height": 921,
+          "bytes": 134258,
+          "sha256": "c3b43c14916fbb1a8d7e8e4523b90d39ed0cd93c9176f5d128adf26dc08983a0"
+        }
+      ]
+    },
+    {
+      "id": "photos-18-feathers",
+      "category": "photos",
+      "title": "Feathers",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 18,
+      "source": "photos-fullsize/18.jpg",
+      "sourceHash": "35547d88c0d665ac8ef1c1a5357bbbbb893f26982d0e02c4fbeb9269bbfca253",
+      "fingerprint": "9ab51885db5b5ceb23a7275fb69305ce159d5d83c6a6104fa986b7e3cd60ff1a",
+      "thumbnail": {
+        "src": "images/generated/photos-18-feathers/9ab51885db5b5ceb/thumbnail.webp",
+        "width": 300,
+        "height": 199,
+        "bytes": 16274,
+        "sha256": "6f4125249e0dda71e070eeaa15442bea5e0f8a5250ed32e54c825636649467d4"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-18-feathers/9ab51885db5b5ceb/display-800.webp",
+          "width": 800,
+          "height": 532,
+          "bytes": 83770,
+          "sha256": "83ceb645b2b22818d05a7e487436cd63edd1abb5d2831a563d105ea7f20fa841"
+        },
+        {
+          "src": "images/generated/photos-18-feathers/9ab51885db5b5ceb/display-1280.webp",
+          "width": 1280,
+          "height": 851,
+          "bytes": 163080,
+          "sha256": "cf8fcdbab40665ab3ba6dfa88040b39199e4ef85e0345758523591f360be34d8"
+        }
+      ]
+    },
+    {
+      "id": "photos-19-temple-in-the-rain",
+      "category": "photos",
+      "title": "Temple in the Rain",
+      "dimensions": "14x16",
+      "medium": "digital",
+      "description": "",
+      "order": 19,
+      "source": "photos-fullsize/19.jpg",
+      "sourceHash": "06e13776240ab85a9a78f6e81a5ef214a5e4d64361800df03f10717c278e5db4",
+      "fingerprint": "d700cb7413728d3eb08100bf0f9858a9600fe8d9d3c14dc9fe255b4afe773e1c",
+      "thumbnail": {
+        "src": "images/generated/photos-19-temple-in-the-rain/d700cb7413728d3e/thumbnail.webp",
+        "width": 300,
+        "height": 210,
+        "bytes": 21806,
+        "sha256": "61fbf355ebb87432fba25ae5ee1ad7f00d4f87df5949a2c937548ec8cb619c70"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-19-temple-in-the-rain/d700cb7413728d3e/display-800.webp",
+          "width": 800,
+          "height": 559,
+          "bytes": 164826,
+          "sha256": "b16626e44c762c1b7d57c0661b5cb4ec8c68039aea5b45fb8b6830961170ff39"
+        },
+        {
+          "src": "images/generated/photos-19-temple-in-the-rain/d700cb7413728d3e/display-1280.webp",
+          "width": 1280,
+          "height": 895,
+          "bytes": 355042,
+          "sha256": "f45cf83d7c398c789bbaaa3de7f67918afbf86833b0ecf129b756cd83b453c18"
+        }
+      ]
+    },
+    {
+      "id": "photos-20-window-to-what",
+      "category": "photos",
+      "title": "Window to What",
+      "dimensions": "16x14",
+      "medium": "digital",
+      "description": "",
+      "order": 20,
+      "source": "photos-fullsize/20.jpg",
+      "sourceHash": "97a211c2862c3ff2bb9d91b590445de6ab8b0ce531dae86b134b1c810fcdf723",
+      "fingerprint": "d246128442730437e07f25264d794abe4a8192294641e606d0ce2362299e6928",
+      "thumbnail": {
+        "src": "images/generated/photos-20-window-to-what/d246128442730437/thumbnail.webp",
+        "width": 225,
+        "height": 300,
+        "bytes": 14348,
+        "sha256": "37de36db9153843124507e2c953faac30d4a6ee7b3a97a2d7ee003803b8e10df"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-20-window-to-what/d246128442730437/display-800.webp",
+          "width": 600,
+          "height": 800,
+          "bytes": 93442,
+          "sha256": "3a12981d0e2b258a36ddb2d923d8988b588763dc65d9d422815489b761d143d2"
+        }
+      ]
+    },
+    {
+      "id": "photos-21-pot-of-gold",
+      "category": "photos",
+      "title": "Pot Of Gold",
+      "dimensions": "16x14",
+      "medium": "digital",
+      "description": "",
+      "order": 21,
+      "source": "photos-fullsize/21.jpg",
+      "sourceHash": "74ed33c320840132269f525986a7e985ad38a1c52e2dd4102318ca83bd689c87",
+      "fingerprint": "9224f71800ad406fb32dbeef39e45142cf28d10925fae5a87d8a23fe4d55d84b",
+      "thumbnail": {
+        "src": "images/generated/photos-21-pot-of-gold/9224f71800ad406f/thumbnail.webp",
+        "width": 225,
+        "height": 300,
+        "bytes": 17340,
+        "sha256": "deaa49a71ee8536ebd07c3e2b016286ae774608090629902d7df050248adfb16"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-21-pot-of-gold/9224f71800ad406f/display-800.webp",
+          "width": 600,
+          "height": 800,
+          "bytes": 139038,
+          "sha256": "27eddc67770eb594e2c75f91ab4f97f85df949613518a8aebf87b1cb775a80c5"
+        },
+        {
+          "src": "images/generated/photos-21-pot-of-gold/9224f71800ad406f/display-900.webp",
+          "width": 675,
+          "height": 900,
+          "bytes": 177256,
+          "sha256": "8a8f1dd09751c0200d76cddee077aba6eb9be11106b89d93c68268aa4002c39a"
+        }
+      ]
+    },
+    {
+      "id": "photos-22-magic-morning",
+      "category": "photos",
+      "title": "Magic Morning",
+      "dimensions": "12x16",
+      "medium": "digital",
+      "description": "",
+      "order": 22,
+      "source": "photos-fullsize/22.jpg",
+      "sourceHash": "3183d12d0f19fafa1740a008abf2fcae57ddcd875e0ccfa7aee314c68932f27a",
+      "fingerprint": "541435c86b249e4d8d6fde2ecf84b4e61f29cb40ec8111c6642b0c70e950cae0",
+      "thumbnail": {
+        "src": "images/generated/photos-22-magic-morning/541435c86b249e4d/thumbnail.webp",
+        "width": 300,
+        "height": 206,
+        "bytes": 12618,
+        "sha256": "ef8028a0aa8ec61d9a9602ca16f057ea23293b45a6f686532d2a108a48b4468e"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-22-magic-morning/541435c86b249e4d/display-800.webp",
+          "width": 800,
+          "height": 549,
+          "bytes": 114978,
+          "sha256": "2758aebd18428c7649af4f65eab06f2878a1ef5f7b407e9b922517d7057c6756"
+        },
+        {
+          "src": "images/generated/photos-22-magic-morning/541435c86b249e4d/display-1280.webp",
+          "width": 1280,
+          "height": 878,
+          "bytes": 281192,
+          "sha256": "01db9a2bee783ca9a39efa25f3f404ad9493cc6160e4caebd0b5f156fd3dbda9"
+        }
+      ]
+    },
+    {
+      "id": "photos-23-spring-awakening",
+      "category": "photos",
+      "title": "Spring Awakening",
+      "dimensions": "12x16",
+      "medium": "digital",
+      "description": "",
+      "order": 23,
+      "source": "photos-fullsize/23.jpg",
+      "sourceHash": "1f97a52c22a39fa9a8020acb53537318521337459b7090e404c83ae97b904a53",
+      "fingerprint": "822f6f5ac1a1479ba7a3ac8a6f5966164822e398cb629f77b5f4eaac3c23876b",
+      "thumbnail": {
+        "src": "images/generated/photos-23-spring-awakening/822f6f5ac1a1479b/thumbnail.webp",
+        "width": 300,
+        "height": 199,
+        "bytes": 8032,
+        "sha256": "753bbf53182c4e27998e1a8ad45ec7edc6122d26eaf3024dd2e958d748bb8c46"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-23-spring-awakening/822f6f5ac1a1479b/display-800.webp",
+          "width": 800,
+          "height": 532,
+          "bytes": 32758,
+          "sha256": "38a478613f675ac149a4fa8479c57122fb9ce6ef84b9c2a18012c23d1e69ec22"
+        },
+        {
+          "src": "images/generated/photos-23-spring-awakening/822f6f5ac1a1479b/display-1280.webp",
+          "width": 1280,
+          "height": 851,
+          "bytes": 57388,
+          "sha256": "e52b02511bda5608a61592d5fe86f17327653b22fce9746919239f8b6cd33868"
+        }
+      ]
+    },
+    {
+      "id": "photos-24-noah-s-wall",
+      "category": "photos",
+      "title": "Noah's Wall",
+      "dimensions": "16x16",
+      "medium": "digital",
+      "description": "",
+      "order": 24,
+      "source": "photos-fullsize/24.jpg",
+      "sourceHash": "d4ed991cb8a326b422bb05e72226227a9b55fecfdc6b0caf97834fa934ad237b",
+      "fingerprint": "476a57aed3a9f682bf264189bfe0f5632e471d6757dc36efdefaa83d3b992fed",
+      "thumbnail": {
+        "src": "images/generated/photos-24-noah-s-wall/476a57aed3a9f682/thumbnail.webp",
+        "width": 300,
+        "height": 284,
+        "bytes": 28602,
+        "sha256": "3611f2a2c5c97f3a2c8fb7ebc9b91a55b25c41f5090f76dbad0f8cdbc4725cdb"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-24-noah-s-wall/476a57aed3a9f682/display-800.webp",
+          "width": 800,
+          "height": 758,
+          "bytes": 118170,
+          "sha256": "8e5ce2db84fa329b8fce0a1f4ccf2d29202e4450f078ffc40a45c92ce74d37e9"
+        },
+        {
+          "src": "images/generated/photos-24-noah-s-wall/476a57aed3a9f682/display-1280.webp",
+          "width": 1280,
+          "height": 1212,
+          "bytes": 208642,
+          "sha256": "64ef584fbf77d33d6a1014fc26eb14ec27d7d0d6ea1b0fb25d6118921a7437c2"
+        }
+      ]
+    },
+    {
+      "id": "photos-25-reflections-in-a-city",
+      "category": "photos",
+      "title": "Reflections in a City",
+      "dimensions": "16x20",
+      "medium": "digital",
+      "description": "",
+      "order": 25,
+      "source": "photos/25.jpg",
+      "sourceHash": "e078bffd8605e25fb81ea9b038a9d47bef4b3e59c1cbc12858326a9b7cb0e89d",
+      "fingerprint": "55ab4d46703c86ca8ded4288cc191e701ec40b41e273497949943b94d463a677",
+      "thumbnail": {
+        "src": "images/generated/photos-25-reflections-in-a-city/55ab4d46703c86ca/thumbnail.webp",
+        "width": 300,
+        "height": 233,
+        "bytes": 7052,
+        "sha256": "dafe26c8ef4848d6fa3a16c5f710e9dbdb196f02be523e1f5c2675f1fcf0289c"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-25-reflections-in-a-city/55ab4d46703c86ca/display-773.webp",
+          "width": 773,
+          "height": 600,
+          "bytes": 30482,
+          "sha256": "c8c44e6e47a166ff39ac8de6440ac8de60837dbb7bdd0cc1ed97cacb6f47dd6a"
+        }
+      ]
+    },
+    {
+      "id": "homepage-0",
+      "category": "homepage",
+      "title": "Homepage background 1",
+      "order": 0,
+      "source": "pics/header/0.jpg",
+      "sourceHash": "29b296cbe8dce744430be1654967af7ee3d7b85c740f8ac9b825f6328da82420",
+      "fingerprint": "a003b47da5f5a5801c4ebb6ae7af3a2d5f9b1f3b5b5a436b97c9b756f2640659",
+      "thumbnail": {
+        "src": "images/generated/homepage-0/a003b47da5f5a580/thumbnail.webp",
+        "width": 300,
+        "height": 190,
+        "bytes": 15092,
+        "sha256": "778f436878f1a2449cb1c2b5ccef576dcea6581942bddafd7c6e98e52d4fcb38"
+      },
+      "variants": [
+        {
+          "src": "images/generated/homepage-0/a003b47da5f5a580/display-800.webp",
+          "width": 800,
+          "height": 508,
+          "bytes": 129576,
+          "sha256": "0afb03d8ceb0f7edac8fab073799f33207d842140900fa5858079ad1fe118e23"
+        },
+        {
+          "src": "images/generated/homepage-0/a003b47da5f5a580/display-1280.webp",
+          "width": 1280,
+          "height": 813,
+          "bytes": 305086,
+          "sha256": "a09e45a873a8364754b3f15f790b54ff64df17f5a3bb0fb3ff4e7763d09aee51"
+        }
+      ]
+    },
+    {
+      "id": "homepage-1",
+      "category": "homepage",
+      "title": "Homepage background 2",
+      "order": 1,
+      "source": "pics/header/1.jpg",
+      "sourceHash": "f40e0978a236cef7a8fe1f56a16c554a7d2caa7a75eeb143303fb86e600f51f7",
+      "fingerprint": "269a859d7f6b3b705b805206323e4594a8d6f4130571efebcd4a94959e80f2a2",
+      "thumbnail": {
+        "src": "images/generated/homepage-1/269a859d7f6b3b70/thumbnail.webp",
+        "width": 300,
+        "height": 143,
+        "bytes": 8688,
+        "sha256": "4f135abad4ef18f2d744495cf081bb1948b1b42b5e3a264ce6e51eb9bf4fbd9a"
+      },
+      "variants": [
+        {
+          "src": "images/generated/homepage-1/269a859d7f6b3b70/display-800.webp",
+          "width": 800,
+          "height": 383,
+          "bytes": 56208,
+          "sha256": "18f2ee2eb31d9eb6d17de74219f3e581f2e9ff248308c469cfc5d570602606cc"
+        },
+        {
+          "src": "images/generated/homepage-1/269a859d7f6b3b70/display-1280.webp",
+          "width": 1280,
+          "height": 613,
+          "bytes": 97668,
+          "sha256": "53365e5bd76d60a14cd59c4907f60634a00f6676d3e40b62f8101c2b04019fd3"
+        }
+      ]
+    },
+    {
+      "id": "homepage-2",
+      "category": "homepage",
+      "title": "Homepage background 3",
+      "order": 2,
+      "source": "pics/header/2.jpg",
+      "sourceHash": "ef63bbe2d4267c9bd9130039cff5a20640a252c4df0a2e471f942e65a36ab952",
+      "fingerprint": "4a837554ba55aa4957922885c77dac66652e6a5aebd811f758fead880ff9b629",
+      "thumbnail": {
+        "src": "images/generated/homepage-2/4a837554ba55aa49/thumbnail.webp",
+        "width": 300,
+        "height": 126,
+        "bytes": 9342,
+        "sha256": "a71cf63a2f75a4c93807f7ba1090ad9ee64e9ac82e927ad9b9317e1ebd6bfc5f"
+      },
+      "variants": [
+        {
+          "src": "images/generated/homepage-2/4a837554ba55aa49/display-800.webp",
+          "width": 800,
+          "height": 337,
+          "bytes": 40468,
+          "sha256": "ce5c86b196f1cfa06a2da38876fa7dfc44684b5455256bce51d60a373941ea87"
+        },
+        {
+          "src": "images/generated/homepage-2/4a837554ba55aa49/display-1268.webp",
+          "width": 1268,
+          "height": 534,
+          "bytes": 71814,
+          "sha256": "a87bd7b0ede7681336ec2cee9e374cbfa134e078da1af881f872fa0200a95da1"
+        }
+      ]
+    },
+    {
+      "id": "homepage-3",
+      "category": "homepage",
+      "title": "Homepage background 4",
+      "order": 3,
+      "source": "pics/header/3.jpg",
+      "sourceHash": "831bc382ea7a0fe7365663c23030128f124fcf3fd356448fdcaffe477f2bc41d",
+      "fingerprint": "5255edf9eb1f5623acf5b3a0dfe5251834f2180af53ab096d38dc0af6ec76f6f",
+      "thumbnail": {
+        "src": "images/generated/homepage-3/5255edf9eb1f5623/thumbnail.webp",
+        "width": 300,
+        "height": 252,
+        "bytes": 9466,
+        "sha256": "ccc8e27ab43c2a16d54f93592d7c3284d5ca116dcea02eda559777079d6cbcd3"
+      },
+      "variants": [
+        {
+          "src": "images/generated/homepage-3/5255edf9eb1f5623/display-800.webp",
+          "width": 800,
+          "height": 671,
+          "bytes": 63096,
+          "sha256": "32f08c23154c66ce3fcbec78860e661fa84be03d67728e346c292e408266bdb0"
+        },
+        {
+          "src": "images/generated/homepage-3/5255edf9eb1f5623/display-1280.webp",
+          "width": 1280,
+          "height": 1074,
+          "bytes": 137206,
+          "sha256": "8352101dd160e84dd04c3aee6c65b350347271007140ed1a340c1d60c25ba1fa"
+        }
+      ]
+    },
+    {
+      "id": "homepage-4",
+      "category": "homepage",
+      "title": "Homepage background 5",
+      "order": 4,
+      "source": "pics/header/4.jpg",
+      "sourceHash": "cb73f6af5a187e0ff6150bb2604f2776061c33cce2247689aebc9c6b5635d317",
+      "fingerprint": "84e0f69b2b2045135444ff2c548b90d9f9738971a643603d24bc9bfa457c5ae3",
+      "thumbnail": {
+        "src": "images/generated/homepage-4/84e0f69b2b204513/thumbnail.webp",
+        "width": 300,
+        "height": 195,
+        "bytes": 14006,
+        "sha256": "43364dc3793cc736fc2644c8c6a8cb4d4cfa18379c6dfbd857776518a1acd0c2"
+      },
+      "variants": [
+        {
+          "src": "images/generated/homepage-4/84e0f69b2b204513/display-800.webp",
+          "width": 800,
+          "height": 520,
+          "bytes": 73366,
+          "sha256": "922200a495ae1bf997678777265a4dd7fd0bed5324f3e26c88d658cc981a79e7"
+        },
+        {
+          "src": "images/generated/homepage-4/84e0f69b2b204513/display-1280.webp",
+          "width": 1280,
+          "height": 832,
+          "bytes": 146748,
+          "sha256": "3cabf19e7ddc64090c2bf9e64d38282e16a836734622a4e965161e48554dfd25"
+        }
+      ]
+    },
+    {
+      "id": "homepage-5",
+      "category": "homepage",
+      "title": "Homepage background 6",
+      "order": 5,
+      "source": "pics/header/5.jpg",
+      "sourceHash": "2bea3b29c4f3db50665641a11b3e89ef7848b53a8e02bef501f22694067d616b",
+      "fingerprint": "67bad3d9d16e1b52945ca68a189e45c916c3534dce47db4d5b982ff5059874c4",
+      "thumbnail": {
+        "src": "images/generated/homepage-5/67bad3d9d16e1b52/thumbnail.webp",
+        "width": 300,
+        "height": 251,
+        "bytes": 29918,
+        "sha256": "342bbc3b0aa63f6bb71073d635c4009caf61715cb2d6596fd8cbd2e2dd12e0e7"
+      },
+      "variants": [
+        {
+          "src": "images/generated/homepage-5/67bad3d9d16e1b52/display-800.webp",
+          "width": 800,
+          "height": 669,
+          "bytes": 204004,
+          "sha256": "c436e727025ecb20bcc8333ba73ddd0b76570b67dcc57b506c669004b275cde9"
+        },
+        {
+          "src": "images/generated/homepage-5/67bad3d9d16e1b52/display-1280.webp",
+          "width": 1280,
+          "height": 1070,
+          "bytes": 427612,
+          "sha256": "885f0fe0e837acafa020c598591e4dcc3bf3460ea74e0541a29f94e636004529"
+        }
+      ]
+    },
+    {
+      "id": "homepage-6",
+      "category": "homepage",
+      "title": "Homepage background 7",
+      "order": 6,
+      "source": "pics/header/6.jpg",
+      "sourceHash": "ff45d3ed0d23e992643eb75a5500273bc5d6f6fec71860423580116f00f48c22",
+      "fingerprint": "15f1610c8de061b911af1721d7408fc3ba6601c308ea21573a7c3035f0e51569",
+      "thumbnail": {
+        "src": "images/generated/homepage-6/15f1610c8de061b9/thumbnail.webp",
+        "width": 300,
+        "height": 164,
+        "bytes": 8250,
+        "sha256": "56eb42c146bf5a4d596db61f07be3e0561c30c9ce5618d8a6eaf64e384c4a040"
+      },
+      "variants": [
+        {
+          "src": "images/generated/homepage-6/15f1610c8de061b9/display-800.webp",
+          "width": 800,
+          "height": 437,
+          "bytes": 48928,
+          "sha256": "199fe709ea171896a7274ac1133c95abbf4fce10eede4b35dcc13a0cfdde38ad"
+        },
+        {
+          "src": "images/generated/homepage-6/15f1610c8de061b9/display-1026.webp",
+          "width": 1026,
+          "height": 560,
+          "bytes": 69352,
+          "sha256": "6a766d552b04875934b6a29245df89f7edd8fdc88b4d9df319be654b014cafc7"
+        }
+      ]
+    },
+    {
+      "id": "homepage-7",
+      "category": "homepage",
+      "title": "Homepage background 8",
+      "order": 7,
+      "source": "pics/header/7.jpg",
+      "sourceHash": "ddec8c1547d80f389c60e0611f98e1ce892d7cdd81127cdc865a80bc59b3087b",
+      "fingerprint": "c25c8e5afd593e79237c6289eea750a62134b1d8b2ad21c2eaa6e30470656a2c",
+      "thumbnail": {
+        "src": "images/generated/homepage-7/c25c8e5afd593e79/thumbnail.webp",
+        "width": 300,
+        "height": 161,
+        "bytes": 5458,
+        "sha256": "3f90425344fb157628a30d50c09afb7ae59ebdd3c2117a5e11b830b8f94e3f9e"
+      },
+      "variants": [
+        {
+          "src": "images/generated/homepage-7/c25c8e5afd593e79/display-800.webp",
+          "width": 800,
+          "height": 429,
+          "bytes": 30670,
+          "sha256": "070b7fd02ee3700b01d15acacc422bd6e5a6b15ff52d914f1443998052913ea4"
+        },
+        {
+          "src": "images/generated/homepage-7/c25c8e5afd593e79/display-1280.webp",
+          "width": 1280,
+          "height": 686,
+          "bytes": 57646,
+          "sha256": "e1d9e74f3a0e2923b3d51120dba8ca233d77e358974a7b87c89a049f182e7069"
+        }
+      ]
+    },
+    {
+      "id": "homepage-8",
+      "category": "homepage",
+      "title": "Homepage background 9",
+      "order": 8,
+      "source": "pics/header/8.jpg",
+      "sourceHash": "fb42da59db230702f02c4f7d6e437b944c546e07c079d59ad4ced26936c483bc",
+      "fingerprint": "f2438d6c85ca33a6238ab085b68ad39476368a079ab1b88f61986d9b1a5fa38a",
+      "thumbnail": {
+        "src": "images/generated/homepage-8/f2438d6c85ca33a6/thumbnail.webp",
+        "width": 300,
+        "height": 186,
+        "bytes": 6650,
+        "sha256": "1fdbd8eafebbec426811bcfcc96256d1e20a24ecb32f90e79813cde41b9df06a"
+      },
+      "variants": [
+        {
+          "src": "images/generated/homepage-8/f2438d6c85ca33a6/display-800.webp",
+          "width": 800,
+          "height": 496,
+          "bytes": 52348,
+          "sha256": "e2046718b5c4abba0847e38066b37c399091f67a7312ae1f83feb5616b126f55"
+        },
+        {
+          "src": "images/generated/homepage-8/f2438d6c85ca33a6/display-903.webp",
+          "width": 903,
+          "height": 560,
+          "bytes": 66774,
+          "sha256": "6ba44049e57ea2210022c646002d8cb950116fb65ed291d4ec059300a6f66a91"
+        }
+      ]
+    },
+    {
+      "id": "homepage-9",
+      "category": "homepage",
+      "title": "Homepage background 10",
+      "order": 9,
+      "source": "pics/header/9.jpg",
+      "sourceHash": "694413825e810d6ec28855c60e42e4d1ba9799b67e1352bbac0c2d8bc09b6127",
+      "fingerprint": "77ee30b5f281bdf8b2cba45df29764c6fc8a92c8622e678f5c66681ecdf720aa",
+      "thumbnail": {
+        "src": "images/generated/homepage-9/77ee30b5f281bdf8/thumbnail.webp",
+        "width": 300,
+        "height": 120,
+        "bytes": 10642,
+        "sha256": "82b683c4e45c3eb90481fbcf20b2d371d5bcec96cb124ec29361a75bd3fedace"
+      },
+      "variants": [
+        {
+          "src": "images/generated/homepage-9/77ee30b5f281bdf8/display-800.webp",
+          "width": 800,
+          "height": 321,
+          "bytes": 60934,
+          "sha256": "ff1ef11e3afe1c435e9b6e0ddd840c0ef958acc5427f8a5c393d9c9d8534fa8b"
+        },
+        {
+          "src": "images/generated/homepage-9/77ee30b5f281bdf8/display-1280.webp",
+          "width": 1280,
+          "height": 513,
+          "bytes": 110806,
+          "sha256": "155ee7eb4d8d6f43329cf20ed382f7b82875f0e43901fc741b20bd2aece3790b"
+        }
+      ]
+    },
+    {
+      "id": "photos-walk-of-art",
+      "category": "photos",
+      "title": "Walk of Art",
+      "medium": "digital",
+      "dimensions": "16x20",
+      "description": "",
+      "order": 26,
+      "source": "originals/photos-walk-of-art-7cc497e2a8c4.jpg",
+      "sourceHash": "7cc497e2a8c4eef36d5a3202d59e0862f0343d9a0cf912d51863823a998ae054",
+      "fingerprint": "13ed7267ce412fbaa9ab7a9d862b53a66fbf5e956ce69d4f618690b00ec791b3",
+      "thumbnail": {
+        "src": "images/generated/photos-walk-of-art/13ed7267ce412fba/thumbnail.webp",
+        "width": 225,
+        "height": 300,
+        "bytes": 5760,
+        "sha256": "9e2ba961270d2970d7fbf564577802c659076d69d70866f7fa3051818d90b0b0"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-walk-of-art/13ed7267ce412fba/display-800.webp",
+          "width": 600,
+          "height": 800,
+          "bytes": 20610,
+          "sha256": "67872706567ad2f5be0c1832ca09031cef7d1d5ad4e1f3f8334093727d6beda1"
+        },
+        {
+          "src": "images/generated/photos-walk-of-art/13ed7267ce412fba/display-1600.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 60148,
+          "sha256": "bec768af4b8d9484f97e1f4a1bcae1c231294541363239dc3c2917b32dbcb55b"
+        },
+        {
+          "src": "images/generated/photos-walk-of-art/13ed7267ce412fba/display-2400.webp",
+          "width": 1800,
+          "height": 2400,
+          "bytes": 143336,
+          "sha256": "cb6fc6558ac5126925e7b99cd9090c12c9653f904405efcd62a02d67dd1a7a8e"
+        }
+      ]
+    },
+    {
+      "id": "photos-wood-in-the-woods",
+      "category": "photos",
+      "title": "Wood in the Woods",
+      "medium": "digital",
+      "dimensions": "16x20",
+      "description": "",
+      "order": 27,
+      "source": "originals/photos-wood-in-the-woods-0921f2b81f33.jpg",
+      "sourceHash": "0921f2b81f33ccf2924e23c488f2f7e966f03859e1778d1bb3dc03865ef949c2",
+      "fingerprint": "005105099a85e44fc020fa783d6b2d1f8295bde1dca628017a13f8c197571fac",
+      "thumbnail": {
+        "src": "images/generated/photos-wood-in-the-woods/005105099a85e44f/thumbnail.webp",
+        "width": 300,
+        "height": 205,
+        "bytes": 23488,
+        "sha256": "643fa34757b175655fb35a04d7112446168b947acf2f8adb30ae91991a27e938"
+      },
+      "variants": [
+        {
+          "src": "images/generated/photos-wood-in-the-woods/005105099a85e44f/display-800.webp",
+          "width": 800,
+          "height": 547,
+          "bytes": 136124,
+          "sha256": "cef57075f87167f1b0975751eceff5b37d3462170ac543ad0ee90f6cc3f3de91"
+        },
+        {
+          "src": "images/generated/photos-wood-in-the-woods/005105099a85e44f/display-1600.webp",
+          "width": 1600,
+          "height": 1093,
+          "bytes": 352686,
+          "sha256": "8bd161ddadaf60c47e02587ff0ae40accf90fb027c88fa4fd626f488346fac7d"
+        },
+        {
+          "src": "images/generated/photos-wood-in-the-woods/005105099a85e44f/display-2400.webp",
+          "width": 2400,
+          "height": 1640,
+          "bytes": 576048,
+          "sha256": "6fef6364fe113e19d53f7c1b4753f2dd96f69c3587542e7208bda8ff5eace11a"
+        }
+      ]
+    },
+    {
+      "id": "paintings-where-has-all-the-clean-air-gone",
+      "category": "paintings",
+      "title": "Where Has All the Clean Air Gone?",
+      "medium": "acrylic on paper",
+      "dimensions": "30x22 each",
+      "description": "",
+      "order": 31,
+      "source": "originals/paintings-where-has-all-the-clean-air-gone-685a8dc7b661.jpg",
+      "sourceHash": "685a8dc7b6617fd8918e1fda4cf80a0afbfdea2d6ce6c5f476c2e2d09db90d03",
+      "fingerprint": "5fd8f36c17c326785e55c9a4e8c68b9d62320429c0851e8987c0e1d8c3f55826",
+      "thumbnail": {
+        "src": "images/generated/paintings-where-has-all-the-clean-air-gone/5fd8f36c17c32678/thumbnail.webp",
+        "width": 300,
+        "height": 138,
+        "bytes": 13054,
+        "sha256": "5ce36664fb662c250f9ad77cd407f2301bc5fb3ac24e86e8f6a5032867b92d3e"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-where-has-all-the-clean-air-gone/5fd8f36c17c32678/display-800.webp",
+          "width": 800,
+          "height": 368,
+          "bytes": 88882,
+          "sha256": "a1359d5a31be256219313ab295d823b569b05002332249a6df0974b192388b91"
+        },
+        {
+          "src": "images/generated/paintings-where-has-all-the-clean-air-gone/5fd8f36c17c32678/display-1600.webp",
+          "width": 1600,
+          "height": 735,
+          "bytes": 342768,
+          "sha256": "ebffa97316c1a9b185be4fc4f57469996230d2639209cbf310bc24b3ff1f61a3"
+        },
+        {
+          "src": "images/generated/paintings-where-has-all-the-clean-air-gone/5fd8f36c17c32678/display-2400.webp",
+          "width": 2400,
+          "height": 1103,
+          "bytes": 731120,
+          "sha256": "1859c65c4e1e7b3ce465179c7cca612d6fd344d4e3699fb4ce10aeab8535d1ef"
+        }
+      ]
+    },
+    {
+      "id": "paintings-winter-s-approach",
+      "category": "paintings",
+      "title": "Winter's Approach",
+      "medium": "oil on canvas",
+      "dimensions": "48x40",
+      "description": "",
+      "order": 32,
+      "source": "originals/paintings-winter-s-approach-2537225805cc.jpg",
+      "sourceHash": "2537225805cca505618596d058004011f905a8d5072c8846ff6f2c4cb865ebd5",
+      "fingerprint": "35fbf862115cac52617d93e66a93aa935ef8acbce5757629ed7c3fd19a1dd79f",
+      "thumbnail": {
+        "src": "images/generated/paintings-winter-s-approach/35fbf862115cac52/thumbnail.webp",
+        "width": 243,
+        "height": 300,
+        "bytes": 8820,
+        "sha256": "9a428e047d2bae0364af434b75c54d755c66453be8bb07c96b370da73ec65b8e"
+      },
+      "variants": [
+        {
+          "src": "images/generated/paintings-winter-s-approach/35fbf862115cac52/display-800.webp",
+          "width": 647,
+          "height": 800,
+          "bytes": 50318,
+          "sha256": "47e1316785812692f32e1d87fe178abaff0dca3afa9bd1c34c793c5dce65538f"
+        },
+        {
+          "src": "images/generated/paintings-winter-s-approach/35fbf862115cac52/display-1600.webp",
+          "width": 1294,
+          "height": 1600,
+          "bytes": 148778,
+          "sha256": "754dfdeb8bf9ee4d03d4824d5ed82b62c8e69a24381dd2df932cde811c6feb59"
+        },
+        {
+          "src": "images/generated/paintings-winter-s-approach/35fbf862115cac52/display-1797.webp",
+          "width": 1453,
+          "height": 1797,
+          "bytes": 174902,
+          "sha256": "6edfaf5d14ce5b9066f8e82b82902e88ad25e6b68e4335ec64eda4620ae7cb3d"
+        }
+      ]
+    }
+  ]
+}

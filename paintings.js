@@ -77,6 +77,7 @@ $(document).ready(function() {
   cars[27] = new Photo(27, "paintings/outoftheblue.jpg", "Out of the Blue", "37x25", "acrylic and rice paper on paper");
   cars[28] = new Photo(28, "paintings/pickingupthesepieces.jpg", "Picking up the Pieces", "54x32", "acrylic and rice paper on paper");
   cars[29] = new Photo(29, "paintings/unhinged.png", "Unhinged", "41x22 ", "acrylic/dital photo on rice paper");
+  cars[30] = new Photo(30, "paintings/themosthappyplace.jpg", "The Most Happy Place", "40x30 ", "acrylic with mixed media");
   // cars[26] = new Photo(26, "paintings/27.png", "Pure Pleasure", "56x30", "acrylic on canvas");
   // cars[27] = new Photo(27, "paintings/28.png", "Pure Pleasure", "56x30", "acrylic on canvas");
   // cars[28] = new Photo(28, "paintings/29.png", "Pure Pleasure", "56x30", "acrylic on canvas");
