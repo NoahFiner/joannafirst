@@ -1,0 +1,4 @@
+node_modules/
+.image-build.lock
+.image-stage-*/
+.DS_Store
